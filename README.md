@@ -1,4 +1,4 @@
-<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a&gt;
+<a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 # DO
 Plant Humanities Project Dumbarton Oaks
 
