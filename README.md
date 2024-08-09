@@ -11,8 +11,8 @@ Short introduction
 
 From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of Passiflora incarnata as early as the Late Archaic period (c. 1000 BCE) in the region that now constitutes the Southeastern United States. Early colonial accounts of the Americas offer the first European descriptions of this unfamiliar genus of plants. The Spanish conquistador, Pedro Cieza de Leon, wrote of delicious granadillas or “little pomegranates” growing near Cali — contemporary Colombia— in the sixteenth century. At the early Jamestown settlement in the British Virginia Colony, Captain John Smith’s 1607-9 diary described the use of Passiflora incarnata in indigenous horticulture. The Powhatan people, he wrote, plant “Maracocks a wild fruit like a lemmon, which also increase infinitely: they begin to ripe in September and continue till the end of October.”
 <iframe 
-       src="https://archive.org/embed/travelsworksofca0001unse/page/56/mode/2up" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>
        align="right"
+       src="https://archive.org/embed/travelsworksofca0001unse/page/56/mode/2up" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>
        </iframe>
        
 #Christian Symbol
