@@ -24,5 +24,7 @@ Early seventeenth-century religious works elucidated the symbolism contained wit
 
 <param ve-image 
        src="https://iiif.lib.harvard.edu/manifests/drs:46878207" seq="2">
-
+<param ve-image 
+       url="https://iiif.lib.harvard.edu/manifests/drs:46878207" seq="2">
+       
 Catholics within Europe and across growing European empires conceived of the passionflower both as a natural wonder and a mystery of the faith, which inspired piety and licensed the Church’s global conquest. In a 1609 letter written during Spain’s attempted invasion and Christianization of Cambodia, the anonymous author included a woodcut of the flower, describing them as “flowers of the ineffable mystery,” and natural “wonders” which demonstrated God’s love to the sinner. The author assessed that “such beautiful flowers Christ wanted to give us, that in paradise he does not give better ones, because he treats the sinner with love.” He concluded “see if it will be a pledge of love with reason, because God entrusts his passion in it so that his sacred renown might be grasped….God is a gardener of the sacred flowers which no human cultivates. So come, Christians, for it is not righteous to conceal such a wonder, but rather it is seen that God wants the soil to become Heaven.” With these words, he expressed a reverence rooted in the natural world which lent credence to Spain’s violent crusade to spread Catholicism in Southeast Asia. By enthralling the “popular curiosity” with the passionflower, these religious pamphlets were an “effective instrument for the diffusion of the evangelical message of the Jesuits.”
