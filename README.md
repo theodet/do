@@ -7,14 +7,14 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Passiflora_edulis_flavicarpa2450667926.jpg/640px-Passiflora_edulis_flavicarpa2450667926.jpg">
 Short introduction
 
-#Indigenous Origins
+# Indigenous Origins
 <iframe 
        align="right"
        src="https://archive.org/embed/travelsworksofca0001unse/page/56/mode/2up" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen>
        </iframe>
 From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of Passiflora incarnata as early as the Late Archaic period (c. 1000 BCE) in the region that now constitutes the Southeastern United States. Early colonial accounts of the Americas offer the first European descriptions of this unfamiliar genus of plants. The Spanish conquistador, Pedro Cieza de Leon, wrote of delicious granadillas or “little pomegranates” growing near Cali — contemporary Colombia— in the sixteenth century. At the early Jamestown settlement in the British Virginia Colony, Captain John Smith’s 1607-9 diary described the use of Passiflora incarnata in indigenous horticulture. The Powhatan people, he wrote, plant “Maracocks a wild fruit like a lemmon, which also increase infinitely: they begin to ripe in September and continue till the end of October.”
 
-#Christian Symbol
+# Christian Symbol
 
 <iframe align="right" src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2F0611aeb7-441b-4106-99ff-ca4b80fc30b8%2F" width="560" height="600" title="Viewer displaying digitised images of Liber mortis et vite [etc.]" allow="fullscreen" sandbox="allow-scripts allow-same-origin" loading="lazy"> 
 </iframe>
