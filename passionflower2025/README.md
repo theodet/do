@@ -11,14 +11,17 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
        caption="Tamarack Tree needles turn a golden yellow in autumn."
        description="Image source: Wikimedia Commons"
        fit="contain"> 
+	
+We want to talk about the [Arma Christi](Q1240885).
+	   
+This is the passionflower essay[^1]
+
 <param ve-image
 	   src="wc:Passiflora_%27Purple_Companion%27.jpg"
 	   caption="Purple companion"
 	   description="Image source: Wikimedia Commons"
 	   fit="contain">
-We want to talk about the [Arma Christi](Q1240885).
-	   
-This is the passionflower essay[^1]
+
 
 	
 [^1]: footnote
