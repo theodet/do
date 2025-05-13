@@ -10,8 +10,7 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
        src="wc:Larix_sibirica_with_golden_foliage.jpg"
        caption="Tamarack Tree needles turn a golden yellow in autumn."
        description="Image source: Wikimedia Commons"
-       fit="contain"
+       fit="contain"> 
 	   
-This is the passionflower essay.[^1]
-[^1]: Gertrude Jekyll, *Wood and Garden: Notes and Thoughts, Practical and Critical, of a Working Amateur* (London: Longmans, Green, and Co., 1899)
+
 	
