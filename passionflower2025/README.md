@@ -13,7 +13,7 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
        fit="contain"> 
 	   
 This is the passionflower essay[^1]
-	dfsdsjfds
+
 	
 [^1]: footnote
 	
