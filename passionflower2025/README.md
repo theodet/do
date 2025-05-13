@@ -21,8 +21,7 @@ This is the passionflower essay[^1]
 	   caption="Purple companion"
 	   description="Image source: Wikimedia Commons"
 	   fit="contain">
-
-
+	
 	
 [^1]: footnote
 	
