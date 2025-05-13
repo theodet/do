@@ -5,7 +5,8 @@
 	source-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Passiflora_passion_flower.jpg" banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Passiflora_passion_flower.jpg" height=100 author="Theo Detweiler, Willa Frank, Rose Kent" layout="vertical">
 	
 	
-	### Introduction
+	###Introduction
+	
 One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, [Wenabozho](Q833857), punished the Tamarack. 
 <param ve-image 
        src="wc:Larix_sibirica_with_golden_foliage.jpg"
