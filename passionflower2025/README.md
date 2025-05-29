@@ -4,8 +4,6 @@
 	title="Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit" 
 	source-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Passiflora_passion_flower.jpg" banner="https://upload.wikimedia.org/wikipedia/commons/1/14/Passiflora_passion_flower.jpg" height=100 author="Theo Detweiler, Willa Frank, Rose Kent" layout="vertical">
 
-### Introduction
-	
 Embedded in the very name of the passionflower is a suggestion of the exotic. Native to the Neotropics, the passionflower first entered Western cultural consciousness upon its discovery in the forests of Brazil by Spanish colonists who saw symbols of the passion of Christ in its strange morphology. The passionflower proliferated as a Christian symbol in Renaissance Europe, and became secularized in Victorian England, when it was absorbed by the cultural phenomenon of the "language of flowers" and the era’s exuberant floral aesthetic. Cultivated varieties of the passionflower multiplied in Victorian hothouses that aimed to recreate the flowers’ tropical habitat in microcosm. Today there are over five hundred species of the genus Passiflora, and over four hundred hybrid forms that have been artificially produced under cultivation. Passionflowers represent the diversity and dynamism of the natural world, with curling and climbing tendrils, evanescent flowers, and shape-shifting leaves. Though named by Europeans for its symbolic representation of the Passion of Christ, the passionflower has also symbolized fervor and exoticism and has been cultivated worldwide for its medicinal properties and charismatic fruits. 
 <param ve-image 
        src="wc:The_new_international_encyclopaedia_(1905)_(14778742771).jpg"
