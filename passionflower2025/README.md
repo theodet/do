@@ -15,7 +15,7 @@ Embedded in the very name of the passionflower is a suggestion of the exotic. Na
 	
 ### Indigenous Uses
 	
-From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, Indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of *Passiflora incarnata* as early as the Late Archaic period (c.1000 BCE) in what is now the southeastern United States.  The Cruz-Badiano Codex—a 1552 Aztec herbal—likely contains the oldest extant description of a passionflower: coanenepilli or "serpent’s tongue" in Nahuatl.  Subsequent sixteenth-century ethnobotanical works recorded the Nahua people’s use of *coanenepilli* root as a [diuretic](https://www.doaks.org/resources/online-exhibits/epidemics/epidemics-english/mesoamerican-herbals/serpents-tongue) and [purgative](https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0).
+From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, Indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of *Passiflora incarnata* as early as the Late Archaic period (c.1000 BCE) in what is now the southeastern United States.[^1] The Cruz-Badiano Codex—a 1552 Aztec herbal—likely contains the oldest extant description of a passionflower: coanenepilli or "serpent’s tongue" in Nahuatl.[^2] Subsequent sixteenth-century ethnobotanical works recorded the Nahua people’s use of *coanenepilli* root as a [diuretic](https://www.doaks.org/resources/online-exhibits/epidemics/epidemics-english/mesoamerican-herbals/serpents-tongue) and [purgative](https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0).[^3]
 	
 Image: to be added to the media repos. folio. 34.
 https://indd.adobe.com/view/ef9bfea9-94bc-4c06-8e54-b4c91c2f59cd
@@ -66,8 +66,7 @@ Still, both religious and scientific works nourished the flower’s myth into th
 	
 [Image description: The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica.]
 	
-	
-This is the passionflower essay[^1]
+
 
 <param ve-image
 	   src="wc:Passiflora_%27Purple_Companion%27.jpg"
@@ -76,5 +75,9 @@ This is the passionflower essay[^1]
 	   fit="contain">
 	
 	
-[^1]: footnote
+[^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
+[^2]: Martín de la Cruz. Libellus de medicinalibus indorum herbis [Cruz-Badiano Codex], translated by Juan Badiano, 1552, Fol. 34. Biblioteca Nacional de Antropología e Historia, México. https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A851#page/72/mode/2up.
+"Coanenepilli," Gran Diccionario Náhuatl online, Universidad Nacional Autónoma de México Ciudad Universitaria, México D.F.: 2012 . http://www.gdn.unam.mx.
+[^3]: See Digital Florentine Codex/Códice Florentino Digital, edited by Kim N. Richter and Alicia Maria Houtrouw, "Book 11: Earthly Things," fol. 143v, Getty Research Institute, 2023. https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0 Accessed 16 August 2024.
+	
 	
