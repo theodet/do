@@ -60,6 +60,12 @@ https://archive.org/details/ioanniseusebiini00nier_0/page/299/mode/1up
 	
 Others were skeptical of the Jesuits’ belief that the flower held esoteric meaning. Even José de Acosta had admitted when he first documented the symbolic interpretation that "some piety is necessary to help it appear, but much is well expressed" in the flower.  British herbalist, John Parkinson, though Catholic, impugned the "superstitious Jesuite" and their professed symbolism, warning that "God never willed his Priests to instruct his people with lyes."  By the first two decades of the seventeenth century, *Passiflora incarnata* (Maypop) and *caerulea* (blue passionflower) grew in Paris, Rome, and London.  Faced with real passionflowers growing in Rome in 1625, an Italian botanist similarly [struggled](https://www.biodiversitylibrary.org/item/111765#page/72/mode/1up) to see the Arma Christi.  These botanists’ works were often accompanied by more realist botanical illustrations over the stylized popular woodcuts.
 	
+IMAGE NEEDED HERE
+	
+Still, both religious and scientific works nourished the flower’s myth into the eighteenth century. An encyclopedia of mathematics and natural history published by the German Johann Zahn in 1696 mimicked Nieremberg’s stylized illustration of the passionflower on the page featuring popular and scientific wonders of early modern Europe, including the anthropomorphic mandrake and the "Boromez" plant that purportedly grew live sheep as its fruit.  Though the Jesuit interpretation of the passionflower emanated from Iberian colonies, the mythic illustrations also circulated in North American colonies. In a manuscript cataloging the natural history of French Canada at the end of the seventeenth century, the Jesuit author sketched just two species not native to the region: the unicorn and the passionflower, clearly imitating Nieremberg’s woodcut.  When Carl Linnaeus catalogued species and standardized plant taxonomy in 1753, he [identified](https://www.biodiversitylibrary.org/page/358980#page/397/mode/1up) 24 species in the genus *Passiflora*, ensuring the plant’s Jesuit legacy would live on in the age of Linnean botany. He named *Passiflora incarnata*—the species cultivated by the Powhatan in Virginia—as the genus’s type species. 
+	
+[Image description: The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica.]
+	
 	
 This is the passionflower essay[^1]
 
