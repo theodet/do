@@ -50,26 +50,28 @@ Early seventeenth-century religious works elucidated the symbolism contained wit
 ### A Natural Wonder for the Global Church
 Catholics within Europe and across growing European empires conceived of the passionflower both as a natural wonder and a mystery of the faith, which inspired piety and licensed the Church’s global conquest. In a 1609 pamphlet written during Spain’s attempted invasion and Christianization of Cambodia, the anonymous author included a woodcut of the flower, describing the flowers as "flowers of the ineffable mystery," and natural "wonders" that demonstrated God’s love to the sinner. The author assessed that "such beautiful flowers Christ wanted to give us, that in paradise he does not give better ones, because he treats the sinner with love." He concluded, "see if it will be a pledge of love with reason, because God entrusts his passion in it so that his sacred renown might be grasped… God is a gardener of the sacred flowers which no human cultivates. So come, Christians, for it is not righteous to conceal such a wonder, but rather it is seen that God wants the soil to become Heaven."[^11] With these words, the author expressed a reverence rooted in the natural world that lent credence to Spain’s violent crusade to spread Catholicism in Southeast Asia. By enthralling the "popular curiosity" with the passionflower, these religious pamphlets were an "effective instrument for the diffusion of the evangelical message of the Jesuits."[^12]
 <ve-iframe src="https://iiif.lib.harvard.edu/manifests/view/drs:46878207$7" width="560" height="700"></iframe> 
-
+<p>
 With its new Christian symbolism, the American flower assimilated into the visual culture of early modern Europe. In a painting of the *Madonna and Child* (1530–35) by the Flemish artist Joos van Cleve, the infant Jesus scrambles away from two red flowers held in his mother’s hand: a carnation and a passionflower. The carnation, with its petals colored a deep blood-red and its stem and flower-head shaped like a nail, is symbolic of the crucifixion and passion of Christ. When compared to the carnation, the depiction of the passionflower is not naturalistic, but stylized and distinct: indeed, the artist likely never saw the living plant and instead painted "from rumour."[^13] The passionflower depicted here bears a strong resemblance to the anonymous woodcut presented above, suggesting it was probably copied from this, or another, early European representation of the flower. Yet, this painting is curious: it pre-dates by a few decades the proliferation of the flower—and any information or printed illustrations about it—in Europe.[^14] Monardes’s description of the flower in 1574 and representations by the Jesuits in 1608 were the earliest accounts of the passionflower in Europe.  As such, Joos van Cleve likely never set eyes upon, or even heard about, the passionflower during his lifetime.[^15] How, then, did the passionflower come to be painted?
 <param ve-image
        src="wc:Cleve_-_Madonna_and_Child,_1530-1535,_1981.130.jpg"
        caption="Joos van Cleve’s *Madonna and Child* (1530-35)"
        description="Image source: Wikimedia Commons"
        fit="contain"> 
+	</p>
+<p>
 Some believe that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described how they "found that the black background was painted around the carnation, where the passionflower was painted right on top of the black, thus indicating that it was done later."[^16] The passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its added layers of paint, Christian narratives that were read into the natural world accumulate. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower from South America, represents the symbolic potency of the passionflower before its mysterious and exotic existence was supplanted by real flowers brought into European gardens.
 <param ve-image 
        src="wc:Cleve_-_Madonna_and_Child,_1530-1535,_1981.130.jpg"
        caption="Joos van Cleve’s *Madonna and Child* (1530-35)"
        description="Image source: Wikimedia Commons"
        fit="contain"> 
-	
+	</p>
+<p>
 It was this natural history of wonder—rather than economic botany—that brought fame to the passionflower across seventeenth-century Europe. Jesuit mystic and theologian Juan Eusebio Nieremberg depicted the bud of the passionflower as the Holy Grail in his book devoted to the natural history of faraway lands. For Nieremberg, each species might "reveal the enigmas of divine wisdom," since the "mysteries of sacred history were written in nature" and its wonders like the passionflower.[^17] By inscribing European symbolism and cosmologies into the flower, Christian naturalists and missionaries rendered the American plant not only a material possession, but a spiritual or "imaginary possession" of Europe.[^18]
 We want to talk about the [Arma Christi](Q1240885).
-	   
-https://archive.org/details/ioanniseusebiini00nier_0/page/299/mode/1up
+	<ve-iframe src="https://archive.org/details/ioanniseusebiini00nier_0/page/299/mode/1up" width="560" height="700"></iframe> 
 [Image caption: Stylized engraving of the passionflower, including a chalice, in Nieremberg’s Historia naturae, maxime peregrinae.]
-
+	</p>
 ### Passionflower in Early Modern Botany
 	
 Others were skeptical of the Jesuits’ belief that the flower held esoteric meaning. Even José de Acosta had admitted when he first documented the symbolic interpretation that "some piety is necessary to help it appear, but much is well expressed" in the flower.[^19] British herbalist, John Parkinson, though Catholic, impugned the "superstitious Jesuite" and their professed symbolism, warning that "God never willed his Priests to instruct his people with lyes."[^20] By the first two decades of the seventeenth century, *Passiflora incarnata* (Maypop) and *caerulea* (blue passionflower) grew in Paris, Rome, and London.[^21] Faced with real passionflowers growing in Rome in 1625, an Italian botanist similarly [struggled](https://www.biodiversitylibrary.org/item/111765#page/72/mode/1up) to see the Arma Christi.[^22] These botanists’ works were often accompanied by more realist botanical illustrations over the stylized popular woodcuts.
