@@ -28,17 +28,7 @@ Image caption: Passionflower "Coanenipilli" in Francisco Hernández de Toledo's 
 By the mid-sixteenth century, Spanish accounts of the Americas first described this unfamiliar group of plants in European terms. The Spanish conquistador, Pedro Cieza de Leon, wrote of delicious *granadillas* or "little pomegranates" growing near Cali, in contemporary Colombia, in his Chronicle of Peru in the 1550s.[^4] At the early Jamestown settlement in the British Virginia Colony, Captain John Smith’s 1607–09 [diary](https://archive.org/details/travelsworksofca0001unse/page/56/mode/2up) described the use of *Passiflora incarnata* in indigenous horticulture. The Powhatan people, he wrote, plant "*Maracocks* a wild fruit like a lemmon, which also increase infinitely: they begin to ripe in September and continue till the end of October."[^5]
 <ve-media anno-base="None/None/" autoplay end="510" src="https://www.youtube.com/watch?v=vcIAVCwKQzM" start="464"></ve-media>
 	
-<ve-footer>
-  <ul>
-    <li>
-       <a href="https://juncture-digital.org">Powered by:
-        <img alt src="https://www.juncture-digital.io/juncture/static/images/juncture-logo.png"></a> 
-    </li>
-    <li>
-      view-code
-    </li>
-  </ul>
-</ve-footer>
+
 
 
 ### Passion of Christ in a Flower
