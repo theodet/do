@@ -69,7 +69,7 @@ Some believe that the passionflower was added to the painting by a different art
 <p>
 It was this natural history of wonder—rather than economic botany—that brought fame to the passionflower across seventeenth-century Europe. Jesuit mystic and theologian Juan Eusebio Nieremberg depicted the bud of the passionflower as the Holy Grail in his book devoted to the natural history of faraway lands. For Nieremberg, each species might "reveal the enigmas of divine wisdom," since the "mysteries of sacred history were written in nature" and its wonders like the passionflower.[^17] By inscribing European symbolism and cosmologies into the flower, Christian naturalists and missionaries rendered the American plant not only a material possession, but a spiritual or "imaginary possession" of Europe.[^18]
 We want to talk about the [Arma Christi](Q1240885).
-	<ve-iframe src="https://archive.org/details/ioanniseusebiini00nier_0/page/299/mode/1up" width="560" height="700"></iframe> 
+	<ve-iframe src="https://archive.org/details/ioanniseusebiini00nier_0/page/299/mode/1up?view=theater" width="560" height="700"></iframe> 
 [Image caption: Stylized engraving of the passionflower, including a chalice, in Nieremberg’s Historia naturae, maxime peregrinae.]
 	</p>
 ### Passionflower in Early Modern Botany
