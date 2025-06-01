@@ -78,7 +78,7 @@ Others were skeptical of the Jesuits’ belief that the flower held esoteric mea
 
 <p>
 Still, both religious and scientific works nourished the flower’s myth into the eighteenth century. An encyclopedia of mathematics and natural history published by the German Johann Zahn in 1696 mimicked Nieremberg’s stylized illustration of the passionflower on the page featuring popular and scientific wonders of early modern Europe, including the anthropomorphic mandrake and the "Boromez" plant that purportedly grew live sheep as its fruit.[^23] Though the Jesuit interpretation of the passionflower emanated from Iberian colonies, the mythic illustrations also circulated in North American colonies. In a manuscript cataloging the natural history of French Canada at the end of the seventeenth century, the Jesuit author sketched just two species not native to the region: the unicorn and the passionflower, clearly imitating Nieremberg’s woodcut.[^24] When Carl Linnaeus catalogued species and standardized plant taxonomy in 1753, he [identified](https://www.biodiversitylibrary.org/page/358980#page/397/mode/1up) 24 species in the genus *Passiflora*, ensuring the plant’s Jesuit legacy would live on in the age of Linnean botany. He named *Passiflora incarnata*—the species cultivated by the Powhatan in Virginia—as the genus’s type species.[^25]
-<ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935/mode/1up?view=theater" width="560" height="700"></iframe> 
+<ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935/mode/1up?view=theater" width="600" height="800"></iframe> 
 
 [Image description: The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica.]
 	
