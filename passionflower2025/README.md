@@ -6,7 +6,7 @@
 
 ### Introduction
 	
-<p>
+
 Embedded in the very name of the passionflower is a suggestion of the exotic. Native to the Neotropics, the passionflower first entered Western cultural consciousness upon its discovery in the forests of Brazil by Spanish colonists who saw symbols of the passion of Christ in its strange morphology. The passionflower proliferated as a Christian symbol in Renaissance Europe, and became secularized in Victorian England, when it was absorbed by the cultural phenomenon of the "language of flowers" and the era’s exuberant floral aesthetic. Cultivated varieties of the passionflower multiplied in Victorian hothouses that aimed to recreate the flowers’ tropical habitat in microcosm. Today there are over five hundred species of the genus *Passiflora*, and over four hundred hybrid forms that have been artificially produced under cultivation. Passionflowers represent the diversity and dynamism of the natural world, with curling and climbing tendrils, evanescent flowers, and shape-shifting leaves. Though named by Europeans for its symbolic representation of the Passion of Christ, the passionflower has also symbolized fervor and exoticism and has been cultivated worldwide for its medicinal properties and charismatic fruits. 
 
 <param ve-image 
@@ -14,16 +14,16 @@ Embedded in the very name of the passionflower is a suggestion of the exotic. Na
        caption="Passiflora varieties illustrated in 1905."
        description="Image source: Wikimedia Commons"
        fit="contain"> 
-		</p>
+		
 ### Indigenous Uses
-	<p>
+
 From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, Indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of *Passiflora incarnata* as early as the Late Archaic period (c.1000 BCE) in what is now the southeastern United States.[^1] The Cruz-Badiano Codex—a 1552 Aztec herbal—likely contains the oldest extant description of a passionflower: coanenepilli or "serpent’s tongue" in Nahuatl.[^2] Subsequent sixteenth-century ethnobotanical works recorded the Nahua people’s use of *coanenepilli* root as a [diuretic](https://www.doaks.org/resources/online-exhibits/epidemics/epidemics-english/mesoamerican-herbals/serpents-tongue) and [purgative](https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0).[^3]
 	
 Image: to be added to the media repos. folio. 34.
 https://indd.adobe.com/view/ef9bfea9-94bc-4c06-8e54-b4c91c2f59cd
 Image caption: Passionflower "Coanenipilli" in Francisco Hernández de Toledo's ethnobotanical and a medical account of the New World for King Phillip II of Spain.
-	</p>
-<p>
+
+
 By the mid-sixteenth century, Spanish accounts of the Americas first described this unfamiliar group of plants in European terms. The Spanish conquistador, Pedro Cieza de Leon, wrote of delicious *granadillas* or "little pomegranates" growing near Cali, in contemporary Colombia, in his Chronicle of Peru in the 1550s.[^4] At the early Jamestown settlement in the British Virginia Colony, Captain John Smith’s 1607–09 [diary](https://archive.org/details/travelsworksofca0001unse/page/56/mode/2up) described the use of *Passiflora incarnata* in indigenous horticulture. The Powhatan people, he wrote, plant "*Maracocks* a wild fruit like a lemmon, which also increase infinitely: they begin to ripe in September and continue till the end of October."[^5]
 <ve-media anno-base="None/None/" autoplay end="510" src="https://www.youtube.com/watch?v=vcIAVCwKQzM" start="464"></ve-media>
 <ve-footer>
@@ -37,14 +37,14 @@ By the mid-sixteenth century, Spanish accounts of the Americas first described t
     </li>
   </ul>
 </ve-footer>
-	</p>
+
 
 ### Passion of Christ in a Flower
-	<p>
+
 While many plants in the *Passiflora* genus offer edible fruits, it was their flower that enchanted Europeans across their global empires in the seventeenth century and gave rise to the plants’ modern name. In 1590, a Spanish Jesuit missionary, José de Acosta, [wrote](https://www.biodiversitylibrary.org/item/323753#page/270/mode/2up) that the granadilla flower was locally "esteemed" for having the "emblems of the Passion," as "the nails, the pillar, the lashes, the Crown of Thorns, and the wounds" were seen in its physiology.[^6] Acosta’s comparison referred to the Christian Gospels’ "[Arma Christi](Q1240885)" or "Instruments of the Passion": the objects involved in Jesus’s final suffering, crucifixion, and death preceding his resurrection. These objects—such as the column of Jesus’ flagellation or the nails of the crucifixion—were metonyms of Jesus in late medieval and early modern art and material culture.[^7] The botanist, Nicolás Monardes, [attested](https://www.biodiversitylibrary.org/item/31924#page/193/mode/1up) to a similar plant to Acosta’s in 1574, and in 1608, a group of Jesuits or Augustinians presented Pope Paul V with a dried specimen of the flower whose individual parts resembled the instruments of the passion. By the early seventeenth century, pamphlets across the Spanish Empire wrote of the "Flower of the Passion."
 <ve-iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2F0611aeb7-441b-4106-99ff-ca4b80fc30b8%2F" width="600" height="800" title="The Pietà with the Arma Christi"> 
 </ve-iframe>
-	</p>
+
 <p>
 Early seventeenth-century religious works elucidated the symbolism contained within the flower’s morphology. In 1609 in Bologna, Simone Parlasca published *The Flower of the Granadiglia, or of The Passion of Our Lord Jesus Christ*, which compiled prose, poetry, and woodcut and copper engravings depicting the plant. Giovanni Rossi’s illustrations did as much to popularize its Christian symbolism as did written descriptions: they depicted an exaggerated passionflower plant whose coronal filaments form Jesus’ Crown of Thorns and whose stylized stigmas resemble the three nails that pinned him to the cross.[^8] Though the most common passionflower species have trifoliate leaves, the Bolognese illustrations picture oval leaves, which subsequent illustrations often emulated. One Jesuit polemicist [assessed](https://www.biodiversitylibrary.org/item/188320#page/189/mode/1up) in 1610 that the plant’s leaves are shaped like the "point of the lance that pierced through the side of Christ our Lord."[^9]  Other seventeenth-century contemporaries identified the flower’s five stamens with the wounds Jesus suffered on the cross, inspiring another early name for the flower: la Flor de las cinco llagas, or "Flower of the Five Wounds."[^10]
 	<ve-iframe src="https://archive.org/embed/Il-fiore-della-granadiglia-ouero-della-passione-di-Nostro-Signore-Giesu-Christo-PHAIDRA_o_361211/page/n13/mode/2up" width="600" height="800"></iframe> 
