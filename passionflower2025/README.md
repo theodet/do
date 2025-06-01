@@ -57,7 +57,7 @@ With its new Christian symbolism, the American flower assimilated into the visua
        caption="Joos van Cleve’s *Madonna and Child* (1530-35)"
        description="Image source: Wikimedia Commons"
        fit="contain"> 
-	</p>
+</p>
 <p>
 Some believe that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described how they "found that the black background was painted around the carnation, where the passionflower was painted right on top of the black, thus indicating that it was done later."[^16] The passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its added layers of paint, Christian narratives that were read into the natural world accumulate. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower from South America, represents the symbolic potency of the passionflower before its mysterious and exotic existence was supplanted by real flowers brought into European gardens.
 <param ve-image 
@@ -76,18 +76,15 @@ It was this natural history of wonder—rather than economic botany—that broug
 Others were skeptical of the Jesuits’ belief that the flower held esoteric meaning. Even José de Acosta had admitted when he first documented the symbolic interpretation that "some piety is necessary to help it appear, but much is well expressed" in the flower.[^19] British herbalist, John Parkinson, though Catholic, impugned the "superstitious Jesuite" and their professed symbolism, warning that "God never willed his Priests to instruct his people with lyes."[^20] By the first two decades of the seventeenth century, *Passiflora incarnata* (Maypop) and *caerulea* (blue passionflower) grew in Paris, Rome, and London.[^21] Faced with real passionflowers growing in Rome in 1625, an Italian botanist similarly [struggled](https://www.biodiversitylibrary.org/item/111765#page/72/mode/1up) to see the Arma Christi.[^22] These botanists’ works were often accompanied by more realist botanical illustrations over the stylized popular woodcuts.
 	<ve-iframe src="https://archive.org/details/paradisiinsolepa00park/page/394/mode/2up?view=theater" width="560" height="700"></iframe> 
 
-	
+<p>
 Still, both religious and scientific works nourished the flower’s myth into the eighteenth century. An encyclopedia of mathematics and natural history published by the German Johann Zahn in 1696 mimicked Nieremberg’s stylized illustration of the passionflower on the page featuring popular and scientific wonders of early modern Europe, including the anthropomorphic mandrake and the "Boromez" plant that purportedly grew live sheep as its fruit.[^23] Though the Jesuit interpretation of the passionflower emanated from Iberian colonies, the mythic illustrations also circulated in North American colonies. In a manuscript cataloging the natural history of French Canada at the end of the seventeenth century, the Jesuit author sketched just two species not native to the region: the unicorn and the passionflower, clearly imitating Nieremberg’s woodcut.[^24] When Carl Linnaeus catalogued species and standardized plant taxonomy in 1753, he [identified](https://www.biodiversitylibrary.org/page/358980#page/397/mode/1up) 24 species in the genus *Passiflora*, ensuring the plant’s Jesuit legacy would live on in the age of Linnean botany. He named *Passiflora incarnata*—the species cultivated by the Powhatan in Virginia—as the genus’s type species.[^25]
-	
+<ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935/mode/1up?view=theater" width="560" height="700"></iframe> 
+
 [Image description: The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica.]
 	
+	</p>
 
 
-<param ve-image
-	   src="wc:Passiflora_%27Purple_Companion%27.jpg"
-	   caption="Purple companion"
-	   description="Image source: Wikimedia Commons"
-	   fit="contain">
 	
 	
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
