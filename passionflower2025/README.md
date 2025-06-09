@@ -78,9 +78,14 @@ Still, both religious and scientific works nourished the flower’s myth into th
 	
 	</p>
 
+### The Language of the Passionflower
 
-	
-	
+<p>
+	The symbolic resonance of the passionflower on the European continent did not translate fully to the Anglican Protestant world and the cultural milieu of Victorian England. The linguistic use of the word passion can be traced through the parallel trajectory of the passionflower’s symbolic meaning in England. As a reference to the sufferings of Christ from Old English, passion as a qualifier of emotionality originated in the thirteenth and fourteenth centuries. Still, the popularity of its use as a general term rose significantly in the eighteenth century.[^26] Today, English-language speakers tend to think primarily of the emotional meaning of passion. This shift occurred during the Victorian era, evidenced in the uptick of passionflowers in decorative arts, poetry, and colloquialisms. 	
+</p>
+<p>
+	The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.  The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.  Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
+</p>
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
 [^2]: Martín de la Cruz. Libellus de medicinalibus indorum herbis [Cruz-Badiano Codex], translated by Juan Badiano, 1552, Fol. 34. Biblioteca Nacional de Antropología e Historia, México. https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A851#page/72/mode/2up.
 "Coanenepilli," Gran Diccionario Náhuatl online, Universidad Nacional Autónoma de México Ciudad Universitaria, México D.F.: 2012 . http://www.gdn.unam.mx.
@@ -110,3 +115,4 @@ Pietro Castelli and Tobia Aldino. Exactissima descriptio rariorum quarundam plan
 [^24]: It is possible, though unlikely, that the inspiration for Louis Nicolas’s imitation of Nieremberg was Passiflora incarnata, an indigenous species to North America with a range that straddles Lake Erie. Art historian François-Marc Gagnon claims that Louis Nicolas modeled his passionflower sketch after Petrelli’s illustration in Possevino. The Canadian’s inclusion of the Holy Chalice clearly indicates he copied Nieremberg’s illustration. 
 François-Marc Gagnon. Louis Nicolas: Life & Work (Toronto: Art Canada Institute, University of Toronto, 2017), 30, 58.
 [^25]: Carl Linnaeus. Species Plantarum (Stockholm: Laurentius Salvius, 1753), 959.
+[^26]: Oxford English Dictionary. s.v. “passion (n.),” March 2024, https://doi.org/10.1093/OED/7483386093.
