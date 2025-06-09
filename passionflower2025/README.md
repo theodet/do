@@ -94,13 +94,17 @@ Image Credit: The Great Steward of Scotland's Dumfries House Trust
 <p>
 	In Anne Pratt and Thomas Miller’s mid-nineteenth-century floriography, The Language of Flowers: The Associations of Flowers, Popular Tales of Flowers, the passionflower is described exotically as “hanging in beautiful festoons about the venerable trees of the American forests.”[^29] It is noted only for its Christian symbolism, and no alternate symbol is offered. However, the entry seems to be more of a “popular tale” than an accepted element of the Victorian “secret language.” Pratt and Miller write snidely about the Spanish Jesuit’s floral reach of the imagination: “To their enthusiastic imaginations, the different parts of the blossoms figured the number of the Apostles, the rays of glory, the nails, the hammer— those sad signs of the Saviour’s passion ! and the sight of this wonderful symbol in the far-off wilderness, was to them an assurance of conquests which were to be effected under the name of religion.” To Pratt and Miller, the passionflower’s symbolism is far-fetched and requires, as they put it, an “enthusiastic imagination.” They use this story to critique the colonial Jesuit enterprise, saying: “More anxious to promote their own peculiar doctrines of faith, and to ensure a temporal dominion, than to exemplify the spirit of Him whom they profess to follow, the very men who beheld in a flower of the forest an emblem of love—an emblem for faith to rest upon—carried misery wherever they raised their standard.”[^30] This quote, however, is less a critique of colonialism than of the Jesuits themselves, suggesting that the Jesuits are not properly acting in the name of God. This difference of religion is ultimately what weakened the Christian symbolism of the passionflower as it was popularized in England. 
 </p>
-<ve-iframe src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) width="600" height="800">
-Caption: *The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.
+<ve-iframe src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) 
+	   width="600" height="800"
+	   wc: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">
 
 ### The Passionflower in the Decorative Arts
 <p>
 	The Language of Flowers inspired a greater inclusion of plants in decorative arts, such as in masonry, decorative paneling and painting, and textile and pattern design. A notable high Victorian style church, St. Mary’s in Stratfield Mortimer, includes passionflowers among its many naturalistic carvings and serves as an excellent example of the passionflower in sacred stonework. Built in the 1860s, the church is thought to be influenced by the Victorian’s culture adopting the Language of Flowers.[^31] Though many symbolic plants and flowers are depicted within and without the church, passionflowers decorate the responds of the chancel arch. Unlike earlier, continental portrayals of the passionflower, these stone passionflowers are, with some grace for the medium, botanically accurate without going to any lengths of fancifulness to emphasize the Christ symbolism. 
 </p>
+<param ve-image 
+	gh=passionflower2025/responds-stmarys.png
+	wc:"St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
 
 </p>
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
