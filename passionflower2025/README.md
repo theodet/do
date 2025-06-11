@@ -110,7 +110,7 @@ image must be added to media repository—screenclip on my computer currently la
 	caption:"St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
 
 <p>
-	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
+	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style (https://en.wikipedia.org/wiki/Arts_and_Crafts_movement) and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 </p>
 note: second image in carousel is a screenclip on my computer zoomed into the passionflower panel of hintze hall - currently in our folder as "passionflower-panel.png"
 
@@ -123,6 +123,71 @@ note: second image in carousel is a screenclip on my computer zoomed into the pa
 
 <p>
 	Another notable display of passion flowers is at the Royal Botanic Gardens Kew. Marianne North was a painter who combined modes of landscape painting and botanical illustration into her artistry. She was an unmarried Victorian woman who traveled the empire alone after the age of 40 and had an insatiable curiosity for tropical plants.[^33] North was especially interested in the environmental adaptation of the specimens she painted. Today, over 800 of her paintings live in the Marianne North Gallery at the Kew where, for the better part of the past century, they were the only permanent solo exhibition of works by a woman.[^34] Several of her paintings feature the passionflower, which she encountered throughout her travels, from Jamaica to Brazil to India and South Africa. In her autobiography, North makes no mention of the Christian symbolism of the passionflower but focuses on the morphology of the plant and the deliciousness of its fruit which, she notes, makes for a most refreshing treat amid oppressive summer heat.[^35]
+</p>
+image: carousel with two images: 
+image 1: https://artuk.org/discover/artworks/flowers-and-fruit-of-the-maricojas-passion-flower-brazil-87841/view_as/grid/search/2025--keyword:passion-flower--actor:north-marianne-18301890/page/1
+caption: “Flowers and Fruit of the Maricojas Passion Flower, Brazil,” Marianne North, 1873. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
+image 2: https://artuk.org/discover/artworks/flowers-and-fruit-of-the-maricojas-passion-flower-brazil-87841/view_as/grid/search/2025--keyword:passion-flower--actor:north-marianne-18301890/page/1
+caption: “Two Climbing Plants of Chili and Butterflies,” Marianne North, 1880s. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
+
+<p>
+	Besides these public, impressive locations, passionflowers were also present in the domestic sphere through textile and porcelain designs. Richard Ovey, the leading furniture fabric purveyor in the early nineteenth century, sold a cotton titled “The Scarlet Ground White Passion Flower Chintz.”[^36]  Manchester calico manufacturer.[^37] Samuel Matley and Sons also sold an upholstery cotton decorated with passionflowers.[^38] As for porcelain, Coalport Porcelain (https://en.wikipedia.org/wiki/Coalport_porcelain), a leading brand of porcelain throughout the nineteenth century, produced a passionflower plate design painted by Thomas Pardoe (https://en.wikipedia.org/wiki/Thomas_Pardoe_(painter)), a notable painter of birds and flowers on porcelain. The presence of passionflowers in these widely available fabrics and porcelain illustrates the extent to which passionflowers became a common motif in nineteenth-century decorative arts. Passionflowers joined the many exotic flowers sprawling over Victorian pattern-crazed homes, adding to the gaudy and saturated aesthetic of the age. 	
+</p>
+image carousel with two images:
+image for repository: https://collections.vam.ac.uk/item/O113964/furnishing-fabric-ovey-richard/
+caption:"Richard Ovey (merchant), Bannister Hall (printer), image credit: Victoria and Albert Museum"
+image for repository: https://collections.vam.ac.uk/item/O289747/furnishing-fabric-samuel-matley/
+caption:"Samuel Matley and Sons, image credit: Victoria and Albert Museum
+Coalport Porcelain Factory (manufacturer), Thomas Pardoe (painter), image credit: Victoria and Albert Museum"
+
+### The Passionflower in Victorian Poetry
+
+<p>
+	The Victorian interest in allegory and symbolism translated well to poetry. Published in 1855, Lord Alfred Tennyson’s Maud and Other Poems contains a series of lyrics about a hysterical man who is pained by the unrequited love he feels for Maud. During a ball, he is waiting in the garden, knowing that Maud’s favored suitor dances with her inside. So sets up the famous line, Come into the garden, Maud. In section XXII.10, Tennyson writes: 
+
+“There has fallen a splendid tear
+From the passion-flower at the gate.
+She is coming, my dove, my dear;
+She is coming, my life, my fate;
+The red rose cries, ‘She is near, she is near;’
+And the white rose weeps, 'She is late;'
+The larkspur listens, 'I hear, I hear;'
+And the lily whispers, 'I wait.'”[^39]
+
+Tennyson’s poem marks a semantic shift in the use of the word passion. It is clear that, placed among roses, lilies, and violets, the passionflower is not serving as a Christ-symbol. Rather, it was by this point an ornamental vine common in English gardens, and more, the name of passionflower aligns with a certain desperation in the protagonist’s narration.
+</p>
+image for repository: https://www.jstor.org/stable/community.26399158
+caption: “Alfred Tennyson,” photographed by Julia Margaret Cameron 1869 
+
+<p>
+		Several volumes of Tennyson’s work were illustrated by his close friend, the pioneering Victorian photographer Julia Margaret Cameron. “Fanciful” photographs became common in the Victorian era and often depicted biblical allegories or classical tales.[^40] Cameron has two photographs surrounding “the passionflower at the gate” that feature wistful women dressed in white. The innocent, virgin beauty showcased in these photos alters the literal meaning of Tennyson’s “passionflower.” The woman becomes the passionflower—or an extension of its symbolic value. While Maud is absent from Tennyson’s garden, Cameron places the figure of desire into her photographs. Through Cameron and Tennyson’s work, we can see the passionflower of the Victorians becoming related to sensuality. The “enthusiastic imaginations” of the Jesuits noted by Pratt and Miller added an element of curiosity to the already exotic-looking morphology of the passionflower. 
+</p>
+image for repository: https://collections.mfa.org/download/4466
+caption: The passionflower at the gate, 1866; *Maud* “There has fallen a splendid tear/from the passionflower at the gate,” 1875 from the illustrated *Idylls of the King and other Poems*
+
+### ROSE'S SECTION ### 
+
+### The Culinary Significance of Passionfruit 
+<p>
+	As noted by Pedro Cieza de Leon and Captain John Smith in the seventeenth century, passionflower vines bear a tart fruit with a bright, citrus-adjacent flavor. In addition to their continued cultivation as ornamental plants in gardens all over the world, passionfruit has become an increasingly available and popular flavor in the American culinary world.[^60] Its gastronomical success depends upon its association with tropicality, even when that tropicality is a marketed fiction. Passionfruit was introduced to Hawai’i in the 1930s, and in the postwar period, market development for passionfruit and value-added products proliferated.  
+</p>
+<ve-iframe src=(https://archive.org/details/edpasfru00unit/mode/2up)
+	   width="600" height="800"
+	   caption: "*The Edible Passion Fruit in Hawaii* by W.T. Pope, Senior Horticulturist at the Hawaii Agricultural Experiment Station, Honolulu, HI.">
+ <p>
+	 Passionfruit’s symbolic value in American food culture is almost an inverse of its Christian symbolism. Instead of being “discovered” in a tropical region and appropriated for Christian colonial purposes, the passionfruit was actively introduced into the exoticized landscape of Hawai’i by the colonizing force of the United States in the early twentieth century and the engine of the United States Department of Agriculture’s Hawai’i Agricultural Experiment Station.[^62] This was part of a broader trend of agricultural research based in Honolulu through which the United States sought to plunder the fertile tropical islands at the far reaches of its early twentieth century empire. The passionfruit seemingly delivered some sense of adventure and novelty as an ingredient for Anglo-American consumers.
+ </p>
+image carousel with two images: 
+images for repository: cover page + page 3 ttps://wellcomecollection.org/works/afna2mze/items
+caption: 1995 Tesco ad pamphlet for "exotic" fruits and vegetables
+
+<p>
+	The semantic shift in the use of the word passion as increasingly related to emotionality in the Victorian era was capitalized upon as a marketing device, specifically used to suggest sensuality, in the twentieth century. Passionfruit product ads often emphasized themes of indulgence, temptation, and the exotic.[^63] This use continues today, with passionfruit only gaining in popularity in the past ten to fifteen years. Unlike other “tropical” fruits such as mango or banana, the passionfruit’s exotic associations have carried over into contemporary food culture, aided by the linguistic evolution of the word “passion,” from being deeply tied to Christ to being closely connected to intense emotion, sensuality, and the exotic. 
+</p>
+
+### Conclusion [copyeditor wanted a better heading…but I am not sure of her suggestions]
+<p>
+	The passionflower’s Spanish colonial origins in the European imagination has unfurled in the centuries since, its religious symbolism now greatly diluted while its associations with the exotic remaining essential to its cultural niche in the Anglo-American world. The early glossing of the flower’s morphology with the symbols of Christ’s passion served to condone the violent imperial acts of conquest in South America. In Protestant England, the symbolism of the passionflower promoted by continental Jesuits was less popular, but the passionflower was symbolically repurposed within the Victorian language of flowers. With its inclusion in a feminized, romantic, upper-class cultural phenomenon and its proliferation within British decorative arts, the passionflower was distanced from the passion of Christ and embedded deeper into associations with sensuality and the exotic. In the twentieth and twenty-first centuries, the passionflower has been known in primarily culinary or ornamental gardening spheres. The culinary history of the passionfruit, however, in the Anglo-American colonial world has depended on the persistent association of the fruit with the exotic, even when that exoticism is pure fabrication, as with the introduction of passionfruit in Hawai’i. As “passion” took on new meanings over the course of the European imperial age, the passionflower has persistently inspired reverence and wonder, whether through association with Christ, romantic sensuality, or as an exoticized culinary product. 
 </p>
 </p>
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
@@ -164,3 +229,13 @@ François-Marc Gagnon. Louis Nicolas: Life & Work (Toronto: Art Canada Institute
 [^33]: Sheffield, Suzanne Le-May. *Revealing New Worlds: Three Victorian Women Naturalists.* (London: Routledge, 2001.)
 [^34]: Rideout, Rebecca. “The Radical Victorian Lady behind an Essential Collection of Botanical Art.” *Atlas Obscura,* April 10, 2014. https://www.atlasobscura.com/articles/marianne-north-and-botanic-art.
 [^35]: North, Marianne and North Symonds, Janet Catherine. *Recollections of a Happy Life: Being the Autobiography of Marianne North* (New York: Macmillan and Co., 1894), Vol I.  https://wellcomecollection.org/works/vreaxzws/items?canvas=103&query=passionflower.
+[^36]: Victoria and Albert Museum. “Furnishing Fabric,” 2005. https://collections.vam.ac.uk/item/O113964/furnishing-fabric-ovey-richard/
+[^37]: Tierney, Josephine. “Design Quality, Mechanization and Taste in the British Textile Printing Industry, 1839–1899,” Journal of Design History, Volume 30, Issue 3, September 2017, 249–264. https://doi.org/10.1093/jdh/epw055.
+[^38]: Victoria and Albert Museum. “Furnishing Fabric,” 2009. https://collections.vam.ac.uk/item/O289747/furnishing-fabric-samuel-matley/.
+[^39]: Tennyson, Alfred. “Maud and Other Poems.” Project Gutenberg, 1855, EBOOK released 2018/updated 2019. https://www.gutenberg.org/files/56913/56913-h/56913-h.htm#link2H_4_0001.
+[^40]: Martinez, Michele. ""The passion-flower at the gate": Tennyson's Poetry in the "Annals" of Julia Margaret Cameron." Victorian Poetry 60, no. 4 (2022): 631-654. https://dx.doi.org/10.1353/vp.2022.0036.
+### ROSE FOOTNOTES ### 
+[^60]: Monin. https://www.monin.com/us/monin-unveils-2022-flavor-of-the-year-passion-fruit.
+[^61]: Ken Love in Stafne, Eric T., "Proceedings of the 2022 Passion fruit Conference: Growing the U.S. Passion Fruit Industry A Strategic Conference for: Growers, Marketers, Researchers, and Stakeholders" (2022). Coastal Research and Extension Center Publications, 4. https://scholarsjunction.msstate.edu/crec-publications/4; Scott, Frank Sanford. "An analysis of market development for frozen passion fruit juice," *Agricultural Economics Bulletin.* University of Hawaii. (1958). http://hdl.handle.net/10125/53735; Akamine, Earnest et al. “Passionfruit Culture in Hawaii.” *Agricultural Economics Circular.* University of Hawaii, 1974. http://hdl.handle.net/10125/15278.
+[^62]: Wang, Jessica. “Plants, Insects, and the Biological Management of American Empire: Tropical Agriculture in Early Twentieth-Century Hawai‘i.” *History and Technology* 35(3) 2019: 203–36. doi:10.1080/07341512.2019.1680143.
+[^63]: Tesco. “A Guide to Exotic Fruits and Vegetables,” 1995. https://wellcomecollection.org/works/afna2mze/items. 
