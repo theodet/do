@@ -86,9 +86,10 @@ Still, both religious and scientific works nourished the flower’s myth into th
 <p>
 	The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.[^27] The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.[^28] Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
 </p>
+image: to be added to media repository (with the caption and credit outlined in code below): https://artuk.org/discover/artworks/lady-mary-wortley-montagu-16891762-207607/search/2025--keyword:lady-mary-wortley-montagu--referrer:global-search
 <param ve-image 
 	gh=passionflower2025/ladymarywortleymontagu.jpg>
-Image Description: Lady Mary Wortley Montagu (1689–1762), painted by Godfrey Kneller, 1715. 
+Image Description: Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715. 
 Image Credit: The Great Steward of Scotland's Dumfries House Trust  
 
 <p>
@@ -102,6 +103,8 @@ Image Credit: The Great Steward of Scotland's Dumfries House Trust
 <p>
 	The Language of Flowers inspired a greater inclusion of plants in decorative arts, such as in masonry, decorative paneling and painting, and textile and pattern design. A notable high Victorian style church, St. Mary’s in Stratfield Mortimer, includes passionflowers among its many naturalistic carvings and serves as an excellent example of the passionflower in sacred stonework. Built in the 1860s, the church is thought to be influenced by the Victorian’s culture adopting the Language of Flowers.[^31] Though many symbolic plants and flowers are depicted within and without the church, passionflowers decorate the responds of the chancel arch. Unlike earlier, continental portrayals of the passionflower, these stone passionflowers are, with some grace for the medium, botanically accurate without going to any lengths of fancifulness to emphasize the Christ symbolism.
 </p>
+image must be added to media repository—screenclip on my computer currently labeled in our folder as "responds-stmarys.png"
+
 <param ve-image 
 	gh=passionflower2025/responds-stmarys.png
 	caption:"St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
@@ -109,10 +112,13 @@ Image Credit: The Great Steward of Scotland's Dumfries House Trust
 <p>
 	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 </p>
+note: third image in carousel is a screenclip on my computer zoomed into the passionflower panel of hintze hall - currently in our folder as "passionflower-panel.png"
 
 <param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
        wc:"Hintze_Hall_from_steps_with_whale.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
        fit="contain"> 
+       wc:"Hintze_Hall_ceiling_and_arches_from_east_alcove.jpg" caption:"Hintze Hall panels" description:"Image source: Wikimedia Commons"
+       gh:
 </p>
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
 [^2]: Martín de la Cruz. Libellus de medicinalibus indorum herbis [Cruz-Badiano Codex], translated by Juan Badiano, 1552, Fol. 34. Biblioteca Nacional de Antropología e Historia, México. https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A851#page/72/mode/2up.
