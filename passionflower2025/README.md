@@ -112,13 +112,18 @@ image must be added to media repository—screenclip on my computer currently la
 <p>
 	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 </p>
-note: third image in carousel is a screenclip on my computer zoomed into the passionflower panel of hintze hall - currently in our folder as "passionflower-panel.png"
+note: second image in carousel is a screenclip on my computer zoomed into the passionflower panel of hintze hall - currently in our folder as "passionflower-panel.png"
 
 <param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
-       wc:"Hintze_Hall_from_steps_with_whale.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
-       fit="contain"> 
+       wc:"Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
+       
        wc:"Hintze_Hall_ceiling_and_arches_from_east_alcove.jpg" caption:"Hintze Hall panels" description:"Image source: Wikimedia Commons"
-       gh:
+       gh:"passionflower2025/passionflower-panel.png" caption:"Ceiling panel showing passionflower" description:"Image Source: cropped from Wikimedia Commons" 
+       fit="contain">
+
+<p>
+	Another notable display of passion flowers is at the Royal Botanic Gardens Kew. Marianne North was a painter who combined modes of landscape painting and botanical illustration into her artistry. She was an unmarried Victorian woman who traveled the empire alone after the age of 40 and had an insatiable curiosity for tropical plants.[^33] North was especially interested in the environmental adaptation of the specimens she painted. Today, over 800 of her paintings live in the Marianne North Gallery at the Kew where, for the better part of the past century, they were the only permanent solo exhibition of works by a woman.[^34] Several of her paintings feature the passionflower, which she encountered throughout her travels, from Jamaica to Brazil to India and South Africa. In her autobiography, North makes no mention of the Christian symbolism of the passionflower but focuses on the morphology of the plant and the deliciousness of its fruit which, she notes, makes for a most refreshing treat amid oppressive summer heat.[^35]
+</p>
 </p>
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
 [^2]: Martín de la Cruz. Libellus de medicinalibus indorum herbis [Cruz-Badiano Codex], translated by Juan Badiano, 1552, Fol. 34. Biblioteca Nacional de Antropología e Historia, México. https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A851#page/72/mode/2up.
@@ -150,9 +155,12 @@ Pietro Castelli and Tobia Aldino. Exactissima descriptio rariorum quarundam plan
 François-Marc Gagnon. Louis Nicolas: Life & Work (Toronto: Art Canada Institute, University of Toronto, 2017), 30, 58.
 [^25]: Carl Linnaeus. Species Plantarum (Stockholm: Laurentius Salvius, 1753), 959.
 [^26]: Oxford English Dictionary. s.v. “passion (n.),” March 2024, https://doi.org/10.1093/OED/7483386093.
-[^27]: Kranz, Isabel. “The Language of Flowers in Popular Culture and Botany.” In The Language of Plants: Science, Philosophy, Literature, edited by Monica Gagliano, John C. Ryan, and Patrícia Vieira, 193–214. (Minneapolis: University of Minnesota Press, 2017.) http://www.jstor.org/stable/10.5749/j.ctt1nxqpqk.13.
+[^27]: Kranz, Isabel. “The Language of Flowers in Popular Culture and Botany.” In *The Language of Plants: Science, Philosophy, Literature,* edited by Monica Gagliano, John C. Ryan, and Patrícia Vieira, 193–214. (Minneapolis: University of Minnesota Press, 2017.) http://www.jstor.org/stable/10.5749/j.ctt1nxqpqk.13.
 [^28]: Kranz, Isabel.
 [^29]: Pratt, Anne and Miller, Thomas. The Language of flowers, The Associations of Flowers, Popular Tales of Flowers (London: Simpkin, Marshall, Hamilton, Kent. 1825-1874 [?]), 112. https://doi.org/10.5962/bhl.title.133951. 
 [^30]: Pratt, Anne and Miller, Thomas.
 [^31]: Allen, J.R.L. and Dark, Petra. “The Leaves and Flowers of St. Mary’s, Stratfield Mortimer: Naturalistic Stone Carvings in a Victorian Church on the Hampshire-Berkshire Border.” Hampshire Studies Vol. 65, 224–239, Hampshire Field Club and Archeological Society, 2010. https://www.hantsfieldclub.org.uk/publications/hampshirestudies/digital/2010s/Vol_65/Allen&Dark.pdf. 
 [^32]: Pavid, Katie. “The Hidden Treasures Above Our Heads.” Natural History Museum, London. https://www.nhm.ac.uk/discover/hidden-treasures-above-heads.html.
+[^33]: Sheffield, Suzanne Le-May. *Revealing New Worlds: Three Victorian Women Naturalists.* (London: Routledge, 2001.)
+[^34]: Rideout, Rebecca. “The Radical Victorian Lady behind an Essential Collection of Botanical Art.” *Atlas Obscura,* April 10, 2014. https://www.atlasobscura.com/articles/marianne-north-and-botanic-art.
+[^35]: North, Marianne and North Symonds, Janet Catherine. *Recollections of a Happy Life: Being the Autobiography of Marianne North* (New York: Macmillan and Co., 1894), Vol I.  https://wellcomecollection.org/works/vreaxzws/items?canvas=103&query=passionflower.
