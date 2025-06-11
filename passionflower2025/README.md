@@ -96,16 +96,23 @@ Image Credit: The Great Steward of Scotland's Dumfries House Trust
 </p>
 <ve-iframe src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) 
 	   width="600" height="800"
-	   wc: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">
+	   caption: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">
 
 ### The Passionflower in the Decorative Arts
 <p>
-	The Language of Flowers inspired a greater inclusion of plants in decorative arts, such as in masonry, decorative paneling and painting, and textile and pattern design. A notable high Victorian style church, St. Mary’s in Stratfield Mortimer, includes passionflowers among its many naturalistic carvings and serves as an excellent example of the passionflower in sacred stonework. Built in the 1860s, the church is thought to be influenced by the Victorian’s culture adopting the Language of Flowers.[^31] Though many symbolic plants and flowers are depicted within and without the church, passionflowers decorate the responds of the chancel arch. Unlike earlier, continental portrayals of the passionflower, these stone passionflowers are, with some grace for the medium, botanically accurate without going to any lengths of fancifulness to emphasize the Christ symbolism. 
+	The Language of Flowers inspired a greater inclusion of plants in decorative arts, such as in masonry, decorative paneling and painting, and textile and pattern design. A notable high Victorian style church, St. Mary’s in Stratfield Mortimer, includes passionflowers among its many naturalistic carvings and serves as an excellent example of the passionflower in sacred stonework. Built in the 1860s, the church is thought to be influenced by the Victorian’s culture adopting the Language of Flowers.[^31] Though many symbolic plants and flowers are depicted within and without the church, passionflowers decorate the responds of the chancel arch. Unlike earlier, continental portrayals of the passionflower, these stone passionflowers are, with some grace for the medium, botanically accurate without going to any lengths of fancifulness to emphasize the Christ symbolism.
 </p>
 <param ve-image 
 	gh=passionflower2025/responds-stmarys.png
-	wc:"St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
+	caption:"St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
 
+<p>
+	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
+</p>
+
+<param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+       wc:"Hintze_Hall_from_steps_with_whale.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
+       fit="contain"> 
 </p>
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
 [^2]: Martín de la Cruz. Libellus de medicinalibus indorum herbis [Cruz-Badiano Codex], translated by Juan Badiano, 1552, Fol. 34. Biblioteca Nacional de Antropología e Historia, México. https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A851#page/72/mode/2up.
@@ -142,3 +149,4 @@ François-Marc Gagnon. Louis Nicolas: Life & Work (Toronto: Art Canada Institute
 [^29]: Pratt, Anne and Miller, Thomas. The Language of flowers, The Associations of Flowers, Popular Tales of Flowers (London: Simpkin, Marshall, Hamilton, Kent. 1825-1874 [?]), 112. https://doi.org/10.5962/bhl.title.133951. 
 [^30]: Pratt, Anne and Miller, Thomas.
 [^31]: Allen, J.R.L. and Dark, Petra. “The Leaves and Flowers of St. Mary’s, Stratfield Mortimer: Naturalistic Stone Carvings in a Victorian Church on the Hampshire-Berkshire Border.” Hampshire Studies Vol. 65, 224–239, Hampshire Field Club and Archeological Society, 2010. https://www.hantsfieldclub.org.uk/publications/hampshirestudies/digital/2010s/Vol_65/Allen&Dark.pdf. 
+[^32]: Pavid, Katie. “The Hidden Treasures Above Our Heads.” Natural History Museum, London. https://www.nhm.ac.uk/discover/hidden-treasures-above-heads.html.
