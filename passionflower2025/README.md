@@ -62,9 +62,9 @@ Zoom
 	</p>
 <p>
 It was this natural history of wonder—rather than economic botany—that brought fame to the passionflower across seventeenth-century Europe. Jesuit mystic and theologian Juan Eusebio Nieremberg depicted the bud of the passionflower as the Holy Grail in his book devoted to the natural history of faraway lands. For Nieremberg, each species might "reveal the enigmas of divine wisdom," since the "mysteries of sacred history were written in nature" and its wonders like the passionflower.[^17] By inscribing European symbolism and cosmologies into the flower, Christian naturalists and missionaries rendered the American plant not only a material possession, but a spiritual or "imaginary possession" of Europe.[^18]
-	<ve-iframe src="https://archive.org/details/ioanniseusebiini00nier_0/page/299/mode/1up?view=theater" width="600" height="800"></iframe> 
-[Image caption: Stylized engraving of the passionflower, including a chalice, in Nieremberg’s Historia naturae, maxime peregrinae.]
-	</p>
+	<param ve-iframe
+                 src="https://archive.org/details/ioanniseusebiini00nier_0/page/299"
+           caption="Stylized engraving of the passionflower, including a chalice, in Nieremberg's *Historia naturae, maxime pereginae*.">
 ### Passionflower in Early Modern Botany
 	
 Others were skeptical of the Jesuits’ belief that the flower held esoteric meaning. Even José de Acosta had admitted when he first documented the symbolic interpretation that "some piety is necessary to help it appear, but much is well expressed" in the flower.[^19] British herbalist, John Parkinson, though Catholic, impugned the "superstitious Jesuite" and their professed symbolism, warning that "God never willed his Priests to instruct his people with lyes."[^20] By the first two decades of the seventeenth century, *Passiflora incarnata* (Maypop) and *caerulea* (blue passionflower) grew in Paris, Rome, and London.[^21] Faced with real passionflowers growing in Rome in 1625, an Italian botanist similarly [struggled](https://www.biodiversitylibrary.org/item/111765#page/72/mode/1up) to see the Arma Christi.[^22] These botanists’ works were often accompanied by more realist botanical illustrations over the stylized popular woodcuts.
