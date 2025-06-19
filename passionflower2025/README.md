@@ -72,13 +72,13 @@ It was this natural history of wonder—rather than economic botany—that broug
 	
 Others were skeptical of the Jesuits’ belief that the flower held esoteric meaning. Even José de Acosta had admitted when he first documented the symbolic interpretation that "some piety is necessary to help it appear, but much is well expressed" in the flower.[^19] British herbalist, John Parkinson, though Catholic, impugned the "superstitious Jesuite" and their professed symbolism, warning that "God never willed his Priests to instruct his people with lyes."[^20] By the first two decades of the seventeenth century, *Passiflora incarnata* (Maypop) and *caerulea* (blue passionflower) grew in Paris, Rome, and London.[^21] Faced with real passionflowers growing in Rome in 1625, an Italian botanist similarly [struggled](https://www.biodiversitylibrary.org/item/111765#page/72/mode/1up) to see the Arma Christi.[^22] These botanists’ works were often accompanied by more realist botanical illustrations over the stylized popular woodcuts.
 	<param ve-iframe
-		   src="https://archive.org/details/paradisiinsolepa00park/page/394/mode/2up?view=theater"> 
+		   src="https://archive.org/details/paradisiinsolepa00park/page/394"> 
 
 <p>
 Still, both religious and scientific works nourished the flower’s myth into the eighteenth century. An encyclopedia of mathematics and natural history published by the German Johann Zahn in 1696 mimicked Nieremberg’s stylized illustration of the passionflower on the page featuring popular and scientific wonders of early modern Europe, including the anthropomorphic mandrake and the "Boromez" plant that purportedly grew live sheep as its fruit.[^23] Though the Jesuit interpretation of the passionflower emanated from Iberian colonies, the mythic illustrations also circulated in North American colonies. In a manuscript cataloging the natural history of French Canada at the end of the seventeenth century, the Jesuit author sketched just two species not native to the region: the unicorn and the passionflower, clearly imitating Nieremberg’s woodcut.[^24] When Carl Linnaeus catalogued species and standardized plant taxonomy in 1753, he [identified](https://www.biodiversitylibrary.org/page/358980#page/397/mode/1up) 24 species in the genus *Passiflora*, ensuring the plant’s Jesuit legacy would live on in the age of Linnean botany. He named *Passiflora incarnata*—the species cultivated by the Powhatan in Virginia—as the genus’s type species.[^25]
-<ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935/mode/1up?view=theater" width="600" height="800"></iframe> 
+<ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935" width="600" height="800"
+	   caption="The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica">
 
-[Image description: The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica.]
 	
 	</p>
 
@@ -90,16 +90,15 @@ Still, both religious and scientific works nourished the flower’s myth into th
 <p>
 	The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.[^27] The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.[^28] Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
 </p>
-image: to be added to media repository (with the caption and credit outlined in code below): https://artuk.org/discover/artworks/lady-mary-wortley-montagu-16891762-207607/search/2025--keyword:lady-mary-wortley-montagu--referrer:global-search
+
 <param ve-image 
-	gh=passionflower2025/ladymarywortleymontagu.jpg>
-Image Description: Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715. 
-Image Credit: The Great Steward of Scotland's Dumfries House Trust  
+	gh=passionflower2025/ladymarywortleymontagu.jpg
+	caption="Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715. (Image Credit: The Great Steward of Scotland's Dumfries House Trust)">  
 
 <p>
 	In Anne Pratt and Thomas Miller’s mid-nineteenth-century floriography, The Language of Flowers: The Associations of Flowers, Popular Tales of Flowers, the passionflower is described exotically as “hanging in beautiful festoons about the venerable trees of the American forests.”[^29] It is noted only for its Christian symbolism, and no alternate symbol is offered. However, the entry seems to be more of a “popular tale” than an accepted element of the Victorian “secret language.” Pratt and Miller write snidely about the Spanish Jesuit’s floral reach of the imagination: “To their enthusiastic imaginations, the different parts of the blossoms figured the number of the Apostles, the rays of glory, the nails, the hammer— those sad signs of the Saviour’s passion ! and the sight of this wonderful symbol in the far-off wilderness, was to them an assurance of conquests which were to be effected under the name of religion.” To Pratt and Miller, the passionflower’s symbolism is far-fetched and requires, as they put it, an “enthusiastic imagination.” They use this story to critique the colonial Jesuit enterprise, saying: “More anxious to promote their own peculiar doctrines of faith, and to ensure a temporal dominion, than to exemplify the spirit of Him whom they profess to follow, the very men who beheld in a flower of the forest an emblem of love—an emblem for faith to rest upon—carried misery wherever they raised their standard.”[^30] This quote, however, is less a critique of colonialism than of the Jesuits themselves, suggesting that the Jesuits are not properly acting in the name of God. This difference of religion is ultimately what weakened the Christian symbolism of the passionflower as it was popularized in England. 
 </p>
-<ve-iframe src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) 
+<ve-iframe src="archive.org/details/languageofflower00prat/page/110 
 	   width="600" height="800"
 	   caption: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">
 
@@ -111,12 +110,11 @@ image must be added to media repository—screenclip on my computer currently la
 
 <param ve-image 
 	gh=passionflower2025/responds-stmarys.png
-	caption:"St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
+	caption:"St. Mary’s respond of chancel arch with passionflowers. (Image credit: James Watkins in Allen and Dark 2010.)"> 
 
 <p>
 	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style (https://en.wikipedia.org/wiki/Arts_and_Crafts_movement) and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 </p>
-note: second image in carousel is a screenclip on my computer zoomed into the passionflower panel of hintze hall - currently in our folder as "passionflower-panel.png"
 
 <param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
        wc:"Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
@@ -128,21 +126,18 @@ note: second image in carousel is a screenclip on my computer zoomed into the pa
 <p>
 	Another notable display of passion flowers is at the Royal Botanic Gardens Kew. Marianne North was a painter who combined modes of landscape painting and botanical illustration into her artistry. She was an unmarried Victorian woman who traveled the empire alone after the age of 40 and had an insatiable curiosity for tropical plants.[^33] North was especially interested in the environmental adaptation of the specimens she painted. Today, over 800 of her paintings live in the Marianne North Gallery at the Kew where, for the better part of the past century, they were the only permanent solo exhibition of works by a woman.[^34] Several of her paintings feature the passionflower, which she encountered throughout her travels, from Jamaica to Brazil to India and South Africa. In her autobiography, North makes no mention of the Christian symbolism of the passionflower but focuses on the morphology of the plant and the deliciousness of its fruit which, she notes, makes for a most refreshing treat amid oppressive summer heat.[^35]
 </p>
-image: carousel with two images: 
-image 1: https://artuk.org/discover/artworks/flowers-and-fruit-of-the-maricojas-passion-flower-brazil-87841/view_as/grid/search/2025--keyword:passion-flower--actor:north-marianne-18301890/page/1
-caption: “Flowers and Fruit of the Maricojas Passion Flower, Brazil,” Marianne North, 1873. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
-image 2: https://artuk.org/discover/artworks/flowers-and-fruit-of-the-maricojas-passion-flower-brazil-87841/view_as/grid/search/2025--keyword:passion-flower--actor:north-marianne-18301890/page/1
-caption: “Two Climbing Plants of Chili and Butterflies,” Marianne North, 1880s. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
+<param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+	gh: "passionflower2025/North-1.jpg" caption: “*Flowers and Fruit of the Maricojas Passion Flower, Brazil,* Marianne North, 1873. (Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew.)"
+	gh: "passionflower2025/North-2.jpg" caption: “*Two Climbing Plants of Chili and Butterflies,* Marianne North, 1880s. (Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew.)"
+ 	fit="contain">
 
 <p>
 	Besides these public, impressive locations, passionflowers were also present in the domestic sphere through textile and porcelain designs. Richard Ovey, the leading furniture fabric purveyor in the early nineteenth century, sold a cotton titled “The Scarlet Ground White Passion Flower Chintz.”[^36]  Manchester calico manufacturer.[^37] Samuel Matley and Sons also sold an upholstery cotton decorated with passionflowers.[^38] As for porcelain, Coalport Porcelain (https://en.wikipedia.org/wiki/Coalport_porcelain), a leading brand of porcelain throughout the nineteenth century, produced a passionflower plate design painted by Thomas Pardoe (https://en.wikipedia.org/wiki/Thomas_Pardoe_(painter)), a notable painter of birds and flowers on porcelain. The presence of passionflowers in these widely available fabrics and porcelain illustrates the extent to which passionflowers became a common motif in nineteenth-century decorative arts. Passionflowers joined the many exotic flowers sprawling over Victorian pattern-crazed homes, adding to the gaudy and saturated aesthetic of the age. 	
 </p>
-image carousel with two images:
-image for repository: https://collections.vam.ac.uk/item/O113964/furnishing-fabric-ovey-richard/
-caption:"Richard Ovey (merchant), Bannister Hall (printer), image credit: Victoria and Albert Museum"
-image for repository: https://collections.vam.ac.uk/item/O289747/furnishing-fabric-samuel-matley/
-caption:"Samuel Matley and Sons, image credit: Victoria and Albert Museum
-Coalport Porcelain Factory (manufacturer), Thomas Pardoe (painter), image credit: Victoria and Albert Museum"
+<param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+	gh: "passionflower2025/ovey.jpg" caption:"Richard Ovey (merchant), Bannister Hall (printer), (Image credit: Victoria and Albert Museum)"
+	gh: "passionflower2025/matley.jpg" caption:"Samuel Matley and Sons, Coalport Porcelain Factory (manufacturer), Thomas Pardoe (painter), (Image credit: Victoria and Albert Museum)"
+ 	fit="contain">
 
 ### The Passionflower in Victorian Poetry
 
@@ -160,14 +155,18 @@ And the lily whispers, 'I wait.'”[^39]
 
 Tennyson’s poem marks a semantic shift in the use of the word passion. It is clear that, placed among roses, lilies, and violets, the passionflower is not serving as a Christ-symbol. Rather, it was by this point an ornamental vine common in English gardens, and more, the name of passionflower aligns with a certain desperation in the protagonist’s narration.
 </p>
-image for repository: https://www.jstor.org/stable/community.26399158
-caption: “Alfred Tennyson,” photographed by Julia Margaret Cameron 1869 
+<param ve-image 
+	gh: "passionflower2025/Cameron-AlfredTennyson-circa 1869.jpg"
+ 	caption: “*Alfred Tennyson,* photographed by Julia Margaret Cameron 1869"
+  	fit="contain">
 
 <p>
 		Several volumes of Tennyson’s work were illustrated by his close friend, the pioneering Victorian photographer Julia Margaret Cameron. “Fanciful” photographs became common in the Victorian era and often depicted biblical allegories or classical tales.[^40] Cameron has two photographs surrounding “the passionflower at the gate” that feature wistful women dressed in white. The innocent, virgin beauty showcased in these photos alters the literal meaning of Tennyson’s “passionflower.” The woman becomes the passionflower—or an extension of its symbolic value. While Maud is absent from Tennyson’s garden, Cameron places the figure of desire into her photographs. Through Cameron and Tennyson’s work, we can see the passionflower of the Victorians becoming related to sensuality. The “enthusiastic imaginations” of the Jesuits noted by Pratt and Miller added an element of curiosity to the already exotic-looking morphology of the passionflower. 
 </p>
-image for repository: https://collections.mfa.org/download/4466
-caption: The passionflower at the gate, 1866; *Maud* “There has fallen a splendid tear/from the passionflower at the gate,” 1875 from the illustrated *Idylls of the King and other Poems*
+<param ve-image
+	gh: "passionflower2025/Cameron2.jpg"
+	caption: "*The passionflower at the gate*, 1866; *Maud* “There has fallen a splendid tear/from the passionflower at the gate,” 1875 from the illustrated *Idylls of the King and other Poems*"
+ 	fit="contain">
 
 ### The Diversity of Passionflowers
 
@@ -290,13 +289,16 @@ Caption: Pressed herbarium specimen of [name of plant]
 </p>
 <ve-iframe src=(https://archive.org/details/edpasfru00unit/mode/2up)
 	   width="600" height="800"
-	   caption: "*The Edible Passion Fruit in Hawaii* by W.T. Pope, Senior Horticulturist at the Hawaii Agricultural Experiment Station, Honolulu, HI.">
+	   caption: "*The Edible Passion Fruit in Hawaii* by W.T. Pope, Senior Horticulturist at the Hawaii Agricultural Experiment Station, Honolulu, HI."
+	fit="contain">
  <p>
 	 Passionfruit’s symbolic value in American food culture is almost an inverse of its Christian symbolism. Instead of being “discovered” in a tropical region and appropriated for Christian colonial purposes, the passionfruit was actively introduced into the exoticized landscape of Hawai’i by the colonizing force of the United States in the early twentieth century and the engine of the United States Department of Agriculture’s Hawai’i Agricultural Experiment Station.[^62] This was part of a broader trend of agricultural research based in Honolulu through which the United States sought to plunder the fertile tropical islands at the far reaches of its early twentieth century empire. The passionfruit seemingly delivered some sense of adventure and novelty as an ingredient for Anglo-American consumers.
  </p>
-image carousel with two images: 
-images for repository: cover page + page 3 ttps://wellcomecollection.org/works/afna2mze/items
-caption: 1995 Tesco ad pamphlet for "exotic" fruits and vegetables
+<param ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+	gh: "passionflower2025/tesco-1.jpg"
+	caption: "1995 Tesco ad pamphlet for "exotic" fruits and vegetables"
+ 	gh: "passionflower2025/tesco-2.jpg"
+  	fit="contain">
 
 <p>
 	The semantic shift in the use of the word passion as increasingly related to emotionality in the Victorian era was capitalized upon as a marketing device, specifically used to suggest sensuality, in the twentieth century. Passionfruit product ads often emphasized themes of indulgence, temptation, and the exotic.[^63] This use continues today, with passionfruit only gaining in popularity in the past ten to fifteen years. Unlike other “tropical” fruits such as mango or banana, the passionfruit’s exotic associations have carried over into contemporary food culture, aided by the linguistic evolution of the word “passion,” from being deeply tied to Christ to being closely connected to intense emotion, sensuality, and the exotic. 
