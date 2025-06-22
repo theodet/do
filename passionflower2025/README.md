@@ -31,12 +31,11 @@ By the mid-sixteenth century, Spanish accounts of the Americas first described t
 ### Passion of Christ in a Flower
 
 While many plants in the *Passiflora* genus offer edible fruits, it was their flower that enchanted Europeans across their global empires in the seventeenth century and gave rise to the plants’ modern name. In 1590, a Spanish Jesuit missionary, José de Acosta, [wrote](https://www.biodiversitylibrary.org/item/323753#page/270/mode/2up) that the granadilla flower was locally "esteemed" for having the "emblems of the Passion," as "the nails, the pillar, the lashes, the Crown of Thorns, and the wounds" were seen in its physiology.[^6] Acosta’s comparison referred to the Christian Gospels’ "[Arma Christi](Q1240885)" or "Instruments of the Passion": the objects involved in Jesus’s final suffering, crucifixion, and death preceding his resurrection. These objects—such as the column of Jesus’ flagellation or the nails of the crucifixion—were metonyms of Jesus in late medieval and early modern art and material culture.[^7] The botanist, Nicolás Monardes, [attested](https://www.biodiversitylibrary.org/item/31924#page/193/mode/1up) to a similar plant to Acosta’s in 1574, and in 1608, a group of Jesuits or Augustinians presented Pope Paul V with a dried specimen of the flower whose individual parts resembled the instruments of the passion. By the early seventeenth century, pamphlets across the Spanish Empire wrote of the "Flower of the Passion."
-<ve-iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2F0611aeb7-441b-4106-99ff-ca4b80fc30b8%2F" width="600" height="800" title="The Pietà with the Arma Christi"> 
-</ve-iframe>
+<param ve-iframe src="https://digital.bodleian.ox.ac.uk/embed/iframe/?url=https%3A%2F%2Fdigital.bodleian.ox.ac.uk%2Fobjects%2F0611aeb7-441b-4106-99ff-ca4b80fc30b8%2F" width="600" height="800" title="The Pietà with the Arma Christi"> 
 
 <p>
 Early seventeenth-century religious works elucidated the symbolism contained within the flower’s morphology. In 1609 in Bologna, Simone Parlasca published *The Flower of the Granadiglia, or of The Passion of Our Lord Jesus Christ*, which compiled prose, poetry, and woodcut and copper engravings depicting the plant. Giovanni Rossi’s illustrations did as much to popularize its Christian symbolism as did written descriptions: they depicted an exaggerated passionflower plant whose coronal filaments form Jesus’ Crown of Thorns and whose stylized stigmas resemble the three nails that pinned him to the cross.[^8] Though the most common passionflower species have trifoliate leaves, the Bolognese illustrations picture oval leaves, which subsequent illustrations often emulated. One Jesuit polemicist [assessed](https://www.biodiversitylibrary.org/item/188320#page/189/mode/1up) in 1610 that the plant’s leaves are shaped like the "point of the lance that pierced through the side of Christ our Lord."[^9]  Other seventeenth-century contemporaries identified the flower’s five stamens with the wounds Jesus suffered on the cross, inspiring another early name for the flower: la Flor de las cinco llagas, or "Flower of the Five Wounds."[^10]
-	<param ve-iframe 
+	<param ve-iframe
 		   src="https://archive.org/embed/Il-fiore-della-granadiglia-ouero-della-passione-di-Nostro-Signore-Giesu-Christo-PHAIDRA_o_361211/page/n13/mode/2up"> 
 	</p>
 	
@@ -75,10 +74,9 @@ Others were skeptical of the Jesuits’ belief that the flower held esoteric mea
 
 <p>
 Still, both religious and scientific works nourished the flower’s myth into the eighteenth century. An encyclopedia of mathematics and natural history published by the German Johann Zahn in 1696 mimicked Nieremberg’s stylized illustration of the passionflower on the page featuring popular and scientific wonders of early modern Europe, including the anthropomorphic mandrake and the "Boromez" plant that purportedly grew live sheep as its fruit.[^23] Though the Jesuit interpretation of the passionflower emanated from Iberian colonies, the mythic illustrations also circulated in North American colonies. In a manuscript cataloging the natural history of French Canada at the end of the seventeenth century, the Jesuit author sketched just two species not native to the region: the unicorn and the passionflower, clearly imitating Nieremberg’s woodcut.[^24] When Carl Linnaeus catalogued species and standardized plant taxonomy in 1753, he [identified](https://www.biodiversitylibrary.org/page/358980#page/397/mode/1up) 24 species in the genus *Passiflora*, ensuring the plant’s Jesuit legacy would live on in the age of Linnean botany. He named *Passiflora incarnata*—the species cultivated by the Powhatan in Virginia—as the genus’s type species.[^25]
-<ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935/mode/1up?view=theater" width="600" height="800"></iframe> 
+<param ve-iframe src="https://archive.org/details/speculaphysicoma00zahn/page/n935/mode/1up?view=theater" 
+	   caption="The passionflower and other mythic curiosities in Johann Zahn’s *Specula physico-mathematico-historica*">
 
-[Image description: The passionflower and other mythic curiosities in Johann Zahn’s Specula physico-mathematico-historica.]
-	
 	</p>
 
 ### The Language of the Passionflower
@@ -89,18 +87,15 @@ Still, both religious and scientific works nourished the flower’s myth into th
 <p>
 	The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.[^27] The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.[^28] Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
 </p>
-image: to be added to media repository (with the caption and credit outlined in code below): https://artuk.org/discover/artworks/lady-mary-wortley-montagu-16891762-207607/search/2025--keyword:lady-mary-wortley-montagu--referrer:global-search
-<param ve-image 
-	gh=passionflower2025/ladymarywortleymontagu.jpg>
-Image Description: Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715. 
-Image Credit: The Great Steward of Scotland's Dumfries House Trust  
+	
+	<param ve-image src="theodet/do/main/passionflower2025/ladymarywortleymontagu.jpg" caption="Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715.">
 
 <p>
 	In Anne Pratt and Thomas Miller’s mid-nineteenth-century floriography, The Language of Flowers: The Associations of Flowers, Popular Tales of Flowers, the passionflower is described exotically as “hanging in beautiful festoons about the venerable trees of the American forests.”[^29] It is noted only for its Christian symbolism, and no alternate symbol is offered. However, the entry seems to be more of a “popular tale” than an accepted element of the Victorian “secret language.” Pratt and Miller write snidely about the Spanish Jesuit’s floral reach of the imagination: “To their enthusiastic imaginations, the different parts of the blossoms figured the number of the Apostles, the rays of glory, the nails, the hammer— those sad signs of the Saviour’s passion ! and the sight of this wonderful symbol in the far-off wilderness, was to them an assurance of conquests which were to be effected under the name of religion.” To Pratt and Miller, the passionflower’s symbolism is far-fetched and requires, as they put it, an “enthusiastic imagination.” They use this story to critique the colonial Jesuit enterprise, saying: “More anxious to promote their own peculiar doctrines of faith, and to ensure a temporal dominion, than to exemplify the spirit of Him whom they profess to follow, the very men who beheld in a flower of the forest an emblem of love—an emblem for faith to rest upon—carried misery wherever they raised their standard.”[^30] This quote, however, is less a critique of colonialism than of the Jesuits themselves, suggesting that the Jesuits are not properly acting in the name of God. This difference of religion is ultimately what weakened the Christian symbolism of the passionflower as it was popularized in England. 
 </p>
-<ve-iframe src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) 
-	   width="600" height="800"
-	   caption: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">
+<param ve-iframe 
+	   src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) 
+	   caption: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">																										
 
 ### The Passionflower in the Decorative Arts
 <p>
