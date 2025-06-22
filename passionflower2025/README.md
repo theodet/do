@@ -20,7 +20,7 @@ Embedded in the very name of the passionflower is a suggestion of the exotic. Na
 
 From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, Indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of *Passiflora incarnata* as early as the Late Archaic period (c.1000 BCE) in what is now the southeastern United States.[^1] The Cruz-Badiano Codex—a 1552 Aztec herbal—likely contains the oldest extant description of a passionflower: coanenepilli or "serpent’s tongue" in Nahuatl.[^2] Subsequent sixteenth-century ethnobotanical works recorded the Nahua people’s use of *coanenepilli* root as a [diuretic](https://www.doaks.org/resources/online-exhibits/epidemics/epidemics-english/mesoamerican-herbals/serpents-tongue) and [purgative](https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0).[^3]
 	
-<param ve-image src="theodet/do/main/coanenipilli toledo image.jpeg" 
+<param ve-image src="theodet/do/main/passionflower2025/coanenipilli toledo image.jpeg" 
 	   caption="Passionflower or Coanenipilli in Francisco Hernández de Toledo's ethnobotanical and a medical account of the New World for King Phillip II of Spain">
 
 
@@ -88,14 +88,15 @@ Still, both religious and scientific works nourished the flower’s myth into th
 	The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.[^27] The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.[^28] Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
 </p>
 	
-	<param ve-image src="theodet/do/main/passionflower2025/ladymarywortleymontagu.jpg" caption="Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715.">
+	<param ve-image src="theodet/do/main/passionflower2025/ladymarywortleymontagu.jpg" 
+		   caption="Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715.">
 
 <p>
 	In Anne Pratt and Thomas Miller’s mid-nineteenth-century floriography, The Language of Flowers: The Associations of Flowers, Popular Tales of Flowers, the passionflower is described exotically as “hanging in beautiful festoons about the venerable trees of the American forests.”[^29] It is noted only for its Christian symbolism, and no alternate symbol is offered. However, the entry seems to be more of a “popular tale” than an accepted element of the Victorian “secret language.” Pratt and Miller write snidely about the Spanish Jesuit’s floral reach of the imagination: “To their enthusiastic imaginations, the different parts of the blossoms figured the number of the Apostles, the rays of glory, the nails, the hammer— those sad signs of the Saviour’s passion ! and the sight of this wonderful symbol in the far-off wilderness, was to them an assurance of conquests which were to be effected under the name of religion.” To Pratt and Miller, the passionflower’s symbolism is far-fetched and requires, as they put it, an “enthusiastic imagination.” They use this story to critique the colonial Jesuit enterprise, saying: “More anxious to promote their own peculiar doctrines of faith, and to ensure a temporal dominion, than to exemplify the spirit of Him whom they profess to follow, the very men who beheld in a flower of the forest an emblem of love—an emblem for faith to rest upon—carried misery wherever they raised their standard.”[^30] This quote, however, is less a critique of colonialism than of the Jesuits themselves, suggesting that the Jesuits are not properly acting in the name of God. This difference of religion is ultimately what weakened the Christian symbolism of the passionflower as it was popularized in England. 
 </p>
 <param ve-iframe 
-	   src="(https://archive.org/details/languageofflower00prat/page/110/mode/2up) 
-	   caption: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">																										
+	   src="https://archive.org/details/languageofflower00prat/page/110/mode/2up
+	   caption: "*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller, 18--.">																								
 
 ### The Passionflower in the Decorative Arts
 <p>
