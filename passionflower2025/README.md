@@ -20,9 +20,8 @@ Embedded in the very name of the passionflower is a suggestion of the exotic. Na
 
 From the Tupi people of Amazonia to the Algonquian of the Chesapeake region, Indigenous peoples harvested passionflowers as medicinal and culinary plants long before the arrival of Europeans to the Americas. Archaeological research suggests evidence of human consumption of *Passiflora incarnata* as early as the Late Archaic period (c.1000 BCE) in what is now the southeastern United States.[^1] The Cruz-Badiano Codex—a 1552 Aztec herbal—likely contains the oldest extant description of a passionflower: coanenepilli or "serpent’s tongue" in Nahuatl.[^2] Subsequent sixteenth-century ethnobotanical works recorded the Nahua people’s use of *coanenepilli* root as a [diuretic](https://www.doaks.org/resources/online-exhibits/epidemics/epidemics-english/mesoamerican-herbals/serpents-tongue) and [purgative](https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0).[^3]
 	
-Image: to be added to the media repos. folio. 34.
-https://indd.adobe.com/view/ef9bfea9-94bc-4c06-8e54-b4c91c2f59cd
-Image caption: Passionflower "Coanenipilli" in Francisco Hernández de Toledo's ethnobotanical and a medical account of the New World for King Phillip II of Spain.
+<param ve-image src="theodet/do/main/coanenipilli toledo image.jpeg" 
+	   caption="Passionflower "Coanenipilli" in Francisco Hernández de Toledo's ethnobotanical and a medical account of the New World for King Phillip II of Spain">
 
 
 By the mid-sixteenth century, Spanish accounts of the Americas first described this unfamiliar group of plants in European terms. The Spanish conquistador, Pedro Cieza de Leon, wrote of delicious *granadillas* or "little pomegranates" growing near Cali, in contemporary Colombia, in his Chronicle of Peru in the 1550s.[^4] At the early Jamestown settlement in the British Virginia Colony, Captain John Smith’s 1607–09 [diary](https://archive.org/details/travelsworksofca0001unse/page/56/mode/2up) described the use of *Passiflora incarnata* in indigenous horticulture. The Powhatan people, he wrote, plant "*Maracocks* a wild fruit like a lemmon, which also increase infinitely: they begin to ripe in September and continue till the end of October."[^5]
@@ -295,7 +294,7 @@ Caption: Pressed herbarium specimen of [name of plant]
 	 Passionfruit’s symbolic value in American food culture is almost an inverse of its Christian symbolism. Instead of being “discovered” in a tropical region and appropriated for Christian colonial purposes, the passionfruit was actively introduced into the exoticized landscape of Hawai’i by the colonizing force of the United States in the early twentieth century and the engine of the United States Department of Agriculture’s Hawai’i Agricultural Experiment Station.[^62] This was part of a broader trend of agricultural research based in Honolulu through which the United States sought to plunder the fertile tropical islands at the far reaches of its early twentieth century empire. The passionfruit seemingly delivered some sense of adventure and novelty as an ingredient for Anglo-American consumers.
  </p>
 image carousel with two images: 
-images for repository: cover page + page 3 https://wellcomecollection.org/works/afna2mze/items
+images for repository: cover page + page 3 ttps://wellcomecollection.org/works/afna2mze/items
 caption: 1995 Tesco ad pamphlet for "exotic" fruits and vegetables
 
 <p>
