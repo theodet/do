@@ -225,7 +225,7 @@ Bees have a far less complicated relationship with passionflowers. As Francis Ch
          license="CC-BY-SA-4.0"
        fit="contain">
 <p>
-
+		
 ### Passionflowers Under Cultivation
 
 Passionflowers have seduced bees and gardeners alike: the vigorous climbers have been adopted into cultivation in European gardens as striking, curious, and strange representations of South America’s tropical forests. The allure of the passionflower to the gardener is represented in Asa B. Strong’s *American Flora* (1846–1850), where the plant is described as "the produce of South America and the West Indies, where the dense forests are filled with their numerous species, climbing over shrubs and trees, and bearing flowers of the most curious form of striking beauty."[^46]
