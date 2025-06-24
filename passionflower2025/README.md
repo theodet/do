@@ -45,22 +45,22 @@ Catholics within Europe and across growing European empires conceived of the pas
 	   src="https://iiif.lib.harvard.edu/manifests/view/drs:46878207$7"
 	   > 
 <p>
-With its new Christian symbolism, the American flower assimilated into the visual culture of early modern Europe. In a painting of the *Madonna and Child* (1530–35) by the Flemish artist Joos van Cleve, the infant Jesus scrambles away from two red flowers held in his mother’s hand: a carnation and a passionflower. The carnation, with its petals colored a deep blood-red and its stem and flower-head shaped like a nail, is symbolic of the crucifixion and passion of Christ. When compared to the carnation, the depiction of the passionflower is not naturalistic, but stylized and distinct: indeed, the artist likely never saw the living plant and instead painted "from rumour."[^13] The passionflower depicted here bears a strong resemblance to the anonymous woodcut presented above, suggesting it was probably copied from this, or another, early European representation of the flower. Yet, this painting is curious: it pre-dates by a few decades the proliferation of the flower—and any information or printed illustrations about it—in Europe.[^14] Monardes’s description of the flower in 1574 and representations by the Jesuits in 1608 were the earliest accounts of the passionflower in Europe.  As such, Joos van Cleve likely never set eyes upon, or even heard about, the passionflower during his lifetime.[^15] How, then, did the passionflower come to be painted?
-<param ve-image
-       src="wc:Cleve_-_Madonna_and_Child,_1530-1535,_1981.130.jpg"
-       caption="Joos van Cleve’s *Madonna and Child* (1530-35)"
-       description="Image source: Wikimedia Commons"
-       fit="contain"> 
-</p>
-<p>
-Some believe that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described how they "found that the black background was painted around the carnation, where the passionflower was painted right on top of the black, thus indicating that it was done later."[^16] The passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its added layers of paint, Christian narratives that were read into the natural world accumulate. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower from South America, represents the symbolic potency of the passionflower before its mysterious and exotic existence was supplanted by real flowers brought into European gardens.
+With its new Christian symbolism, the American flower assimilated into the visual culture of early modern Europe. In a painting of the *Madonna and Child* (1530–35) by the Flemish artist Joos van Cleve, the infant Jesus scrambles away from two red flowers held in his mother’s hand: a carnation and a passionflower. The carnation, with its petals colored a deep blood-red and its stem and flower-head shaped like a nail, is symbolic of the crucifixion and passion of Christ. When compared to the carnation, the depiction of the passionflower is not naturalistic, but stylized and distinct. It is likely the passionflower depicted here was not painted from life but rather "from rumour."[^13] The flower bears a strong resemblance to the stylized form represented in the anonymous woodcut discussed previously, making it likely that it was copied from this, or another, early European representation of the flower. Yet, this painting is curious: it pre-dates by a few decades the proliferation of the flower—and any information or printed illustrations representing it—in Europe.[^14] Monardes’s description of the flower in 1574 and the later representations by the Jesuits in 1608 are the earliest accounts of the passionflower in Europe. Joos van Cleve would surely have never set eyes upon, or even heard about, the passionflower during his lifetime.[^15] How, then, did the passionflower appear in this painting?
 <param ve-image 
-       src="wc:Cleve_-_Madonna_and_Child,_1530-1535,_1981.130.jpg"
-       caption="Joos van Cleve’s *Madonna and Child* (1530-35)"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
+       label="Joos van Cleve’s *Madonna and Child* (1530-35)."
        description="Image source: Wikimedia Commons"
-       fit="contain"> 
-Zoom
-	</p>
+	   license="CC0"
+       fit="contain">
+
+It is likely that the passionflower was added to the painting by a different artist around a hundred years after Joos van Cleve completed it. Andy Haslit, curator at the Cincinnati Art Museum where the painting is held, described that a "black background was painted around the carnation, [and] the passionflower was painted right on top of the black." [^16] The painted passionflower grows out from the top of the carnation, as a sort of "updated" counterpart to the carnation, or a New World manifestation of Christ’s passion. It is impossible to know exactly why the passionflower was added to the painting, but in its layers of added paint, Christian narratives that were read into the natural world accumulate in the painting. The contrast between the naturalistic representation of the carnation, a native of the Mediterranean flora, and the stylized passionflower, native to South America, represents the symbolic potency of the passionflower before its mysterious and exoticized existence was supplanted by real flowers brought into European gardens. 
+<param ve-image 
+	   url="https://upload.wikimedia.org/wikipedia/commons/d/d1/Cleve_-_Madonna_and_Child%2C_1530-1535%2C_1981.130.jpg"
+       label= "Joos van Cleve’s *Madonna and Child *(1530-35)."
+       description="Image source: Wikimedia Commons"
+	   license="CC0"
+       region="1,666,664,450"> 
+
 <p>
 It was this natural history of wonder—rather than economic botany—that brought fame to the passionflower across seventeenth-century Europe. Jesuit mystic and theologian Juan Eusebio Nieremberg depicted the bud of the passionflower as the Holy Grail in his book devoted to the natural history of faraway lands. For Nieremberg, each species might "reveal the enigmas of divine wisdom," since the "mysteries of sacred history were written in nature" and its wonders like the passionflower.[^17] By inscribing European symbolism and cosmologies into the flower, Christian naturalists and missionaries rendered the American plant not only a material possession, but a spiritual or "imaginary possession" of Europe.[^18]
 	<param ve-iframe
@@ -164,15 +164,17 @@ caption: “Alfred Tennyson,” photographed by Julia Margaret Cameron 1869
 image for repository: https://collections.mfa.org/download/4466
 caption: The passionflower at the gate, 1866; *Maud* “There has fallen a splendid tear/from the passionflower at the gate,” 1875 from the illustrated *Idylls of the King and other Poems*
 
+
 ### The Diversity of Passionflowers
 
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
+
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/c/c9/NIEdot346.jpg"
          label="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902)"
          description="Image source: Wikimedia Commons"
          license="CC0"
-       region="0,388,788,534">        
+       region="0,388,788,534">
 <param ve-image   
          url="https://upload.wikimedia.org/wikipedia/commons/2/25/Haeckel_Actiniae_edit.jpg"
        label="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899)."
@@ -181,7 +183,7 @@ Since Linnaeus’ classification, the known diversity of passionflowers has grow
        region="0,82,1600,1085">
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/0/00/Passiflora_actinia_flower_12.jpg"
-       label="Photo of *Passiflora actinia* or, the sea-anemone passionflower."
+       label="Photo of *Passiflora actinia*, the sea-anemone passionflower."
        description="Image source: Wikimedia Commons"
          license="CC-BY-SA-4.0"
        fit="contain">
@@ -196,19 +198,21 @@ In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin John
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
 <param ve-image
-    url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
        label="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900)."
        description="Image source: Wikimedia Commons"
          license="CC-BY-SA-4.0"
        region="253,255,2010,1324">
       
 Yet passionflowers are not as immobile and defenseless as they might appear to human eyes and senses of time. The shapes of passionflower leaves, for instance, are some of the most malleable and diverse among plants: in some cases, their leaves can vary and mutate along a single vine, mimicking nonhost plants and discouraging butterflies from laying eggs on them.[^43] The deceit does not stop here: many passionflowers have structures on their leaves, such as little nubs or yellow spots, that mimic the appearance and arrangement of butterfly eggs and so deter longwings from laying eggs on leaves that appear to be occupied. Some even display structures that mimic the eggs of the longwing’s predators. In addition, nectar-producing glands on the leaves can be utilized to attract ants and wasps, which in turn attack the longwing caterpillars.[^44]
-      **INSERT **REPOSITORY IMAGE:"*Granadilla* from Joannis Martyn’s *Historia plantarum rariorum* (1728). Yellow spots on the leaves mimic the appearance and formation of butterfly eggs."
-   
-      **INSERT **REPOSITORY IMAGE:*Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs."
-     
+
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/2/21/Peter_Charles_Henderson_-_The_Winged_Passion-Flower_%28Passaflora_alata%29%2C_1802.jpg"
+       label="Illustration of *Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs."
+       description="Image source: Wikimedia Commons"
+         license="">
+
 Bees have a far less complicated relationship with passionflowers. As Francis Channing Woodworth describes in her book *Wonders of the Insect World* (1853), "the nectar in the passion flower has an intoxicating effect" upon bees: "they now and then indulge in excessive drinking […] one may see half a dozen of these poor creatures lying on the ground, near the goblet which has so grossly intoxicated them, and entirely unable to stir an inch." [^45] This sprawling scene of inebriated bees places the passionflower not with notions of divine sacrifice and purity, but with indulgence, pleasure, and excess.
-              
 <param ve-image
          url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Passiflora_foetida_flower_with_bee.jpg/640px-Passiflora_foetida_flower_with_bee.jpg"
        label="Photo of *Passiflora foetida* with a bee indulging in 'excessive drinking.'"
@@ -219,9 +223,15 @@ Bees have a far less complicated relationship with passionflowers. As Francis Ch
 ### Passionflowers Under Cultivation
 
 Passionflowers have seduced bees and gardeners alike: the vigorous climbers have been adopted into cultivation in European gardens as striking, curious, and strange representations of South America’s tropical forests. The allure of the passionflower to the gardener is represented in Asa B. Strong’s *American Flora* (1846–1850), where the plant is described as "the produce of South America and the West Indies, where the dense forests are filled with their numerous species, climbing over shrubs and trees, and bearing flowers of the most curious form of striking beauty."[^46]
-      
-      **INSERT **REPOSITORY IMAGE**"*The Blue Passion-flower *climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Contrast this with Heade’s depictions of the flower. Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World are moved into a Classical setting"
-     
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Philip_Reinagle_-_Blue_Passion_Flower%2C_for_the_%22Temple_of_Flora%22_by_Robert_Thornton_-_Google_Art_Project.jpg"
+       label="Illustration of "*The Blue Passion-flower* climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World have been moved into a Classical setting"
+       description="Image source: Wikimedia Commons"
+         license="">
+<param ve-image
+        src="theodet/do/main/passionflower2025/P_caerulea.jpg"
+	caption="A pressed herbarium specimen of *Passiflora caerulea," or the Blue Passionflower. This specimen was collected in South America.">
+   
 The artificial cultivation of these far-away rainforests, and the lush exoticism they came to represent, was often achieved under glass in hothouses, or stoves, and heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of tropical climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass were intended to recreate the heat and humidity of tropical forests in lavish microcosm.
         
 <param ve-image
@@ -234,11 +244,13 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
        label="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873)"
        description="BHL"
        fit="cover">
+       
 <param ve-image
          url="https://www.biodiversitylibrary.org/pageImage/43864389"
        label="Page from *Vick's Garden and Floral guide* (1900) depicting passionflowers as plants for the greenhouse."
        description="BHL"
        region="1,0,1749,1828">        
+       
 <param ve-image
         url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281891%29_%2814593557718%29.jpg"
          label= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.'"
@@ -251,32 +263,38 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
        label="Photo of *Passiflora* 'Sunburst'"
        description="Image source: Wikimedia Commons"
          license="CC-BY-SA-4.0"
-       fit="cover">
+       fit="contain">
 <param ve-image
          url="https://upload.wikimedia.org/wikipedia/commons/3/38/Passiflora_%27Kew_Gardens%27.jpg"
        label="Photo of *Passiflora* 'Kew Gardens' (*Passiflora x kewensis*)"
        description="Image source: Wikimedia Commons"
          license="CC-BY-2.0"
-       fit="cover">
+       fit="contain">
 <param ve-image
          url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Passiflora_%27Lady_Margaret%27.jpg"
        label="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*)"
        description="Image source: Wikimedia Commons"
          license="CC-BY-SA-3.0"
-       fit="cover">
+       fit="contain">
 
-        
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
-      **INSERT **REPOSITORY IMAGE: *Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)"
-     
+      <param ve-image
+                 src="theodet/do/main/passionflower2025/ML_alata.png"
+		 caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)">
+   		
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
 
-      **INSERT **REPOSITOTY IMAGE: Passiflora subpeltata_herb.tiff
-      **INSERT **REPOSITORY IMAGE: P. adenophylla_herb
-      **INSERT **REPOSITORY IMAGE: Passiflora sp_herb
-      **INSERT **REPOSITORY IMAGE: Passiflora subpeltata_herb
-      **INSERT **REPOSITORY IMAGE: Passiflora tripartita var. azuayensis_herb
-Caption: Pressed herbarium specimen of [name of plant]
+<param ve-image
+                 src="theodet/do/main/passionflower2025/P. adenophylla_herb.jpg"
+                 label="Herbarium specimen of *Passiflora adenophylla*">
+<param ve-image
+                 src="theodet/do/main/passionflower2025/Passiflora sp_herb.jpg"
+                 label="Herbarium specimen of a species of *Passiflora*">
+<param ve-image
+                 src="theodet/do/main/passionflower2025/Passiflora tripartita var. azuayensis_herb.jpg"
+                 label="Herbarium specimen of *Passiflora tripartita* var. *azuayensis*">
+<param ve-image
+                 src="theodet/do/main/passionflower2025/Passiflora subpeltata_herb.jpg">
 
 
 ### The Culinary Significance of Passionfruit 
