@@ -110,11 +110,12 @@ image must be added to media repository—screenclip on my computer currently la
 	caption="St. Mary’s respond of chancel arch with passionflowers. Image credit: James Watkins in Allen and Dark 2010."> 
 
 <p>
-	Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style (https://en.wikipedia.org/wiki/Arts_and_Crafts_movement) and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
+Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the Arts and Crafts style (https://en.wikipedia.org/wiki/Arts_and_Crafts_movement) and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 </p>
 note: second image in carousel is a screenclip on my computer zoomed into the passionflower panel of hintze hall - currently in our folder as "passionflower-panel.png"
 
-<param .ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
+<param ve-image
+<param.ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
        wc:"Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
        
        wc:"Hintze_Hall_ceiling_and_arches_from_east_alcove.jpg" caption:"Hintze Hall panels" description:"Image source: Wikimedia Commons"
@@ -122,22 +123,24 @@ note: second image in carousel is a screenclip on my computer zoomed into the pa
        fit="contain">
 
 <p>
-	Another notable display of passion flowers is at the Royal Botanic Gardens Kew. Marianne North was a painter who combined modes of landscape painting and botanical illustration into her artistry. She was an unmarried Victorian woman who traveled the empire alone after the age of 40 and had an insatiable curiosity for tropical plants.[^33] North was especially interested in the environmental adaptation of the specimens she painted. Today, over 800 of her paintings live in the Marianne North Gallery at the Kew where, for the better part of the past century, they were the only permanent solo exhibition of works by a woman.[^34] Several of her paintings feature the passionflower, which she encountered throughout her travels, from Jamaica to Brazil to India and South Africa. In her autobiography, North makes no mention of the Christian symbolism of the passionflower but focuses on the morphology of the plant and the deliciousness of its fruit which, she notes, makes for a most refreshing treat amid oppressive summer heat.[^35]
+Another notable display of passion flowers is at the Royal Botanic Gardens Kew. Marianne North was a painter who combined modes of landscape painting and botanical illustration into her artistry. She was an unmarried Victorian woman who traveled the empire alone after the age of 40 and had an insatiable curiosity for tropical plants.[^33] North was especially interested in the environmental adaptation of the specimens she painted. Today, over 800 of her paintings live in the Marianne North Gallery at the Kew where, for the better part of the past century, they were the only permanent solo exhibition of works by a woman.[^34] Several of her paintings feature the passionflower, which she encountered throughout her travels, from Jamaica to Brazil to India and South Africa. In her autobiography, North makes no mention of the Christian symbolism of the passionflower but focuses on the morphology of the plant and the deliciousness of its fruit which, she notes, makes for a most refreshing treat amid oppressive summer heat.[^35]
 </p>
+<param ve-image
 image: carousel with two images: 
 image 1: https://artuk.org/discover/artworks/flowers-and-fruit-of-the-maricojas-passion-flower-brazil-87841/view_as/grid/search/2025--keyword:passion-flower--actor:north-marianne-18301890/page/1
-caption: “Flowers and Fruit of the Maricojas Passion Flower, Brazil,” Marianne North, 1873. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
+caption=“Flowers and Fruit of the Maricojas Passion Flower, Brazil,” Marianne North, 1873. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
 image 2: https://artuk.org/discover/artworks/flowers-and-fruit-of-the-maricojas-passion-flower-brazil-87841/view_as/grid/search/2025--keyword:passion-flower--actor:north-marianne-18301890/page/1
-caption: “Two Climbing Plants of Chili and Butterflies,” Marianne North, 1880s. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
+caption=“Two Climbing Plants of Chili and Butterflies,” Marianne North, 1880s. Image Credit: The Board of Trustees of the Royal Botanic Gardens, Kew. 
 
 <p>
-	Besides these public, impressive locations, passionflowers were also present in the domestic sphere through textile and porcelain designs. Richard Ovey, the leading furniture fabric purveyor in the early nineteenth century, sold a cotton titled “The Scarlet Ground White Passion Flower Chintz.”[^36]  Manchester calico manufacturer.[^37] Samuel Matley and Sons also sold an upholstery cotton decorated with passionflowers.[^38] As for porcelain, Coalport Porcelain (https://en.wikipedia.org/wiki/Coalport_porcelain), a leading brand of porcelain throughout the nineteenth century, produced a passionflower plate design painted by Thomas Pardoe (https://en.wikipedia.org/wiki/Thomas_Pardoe_(painter)), a notable painter of birds and flowers on porcelain. The presence of passionflowers in these widely available fabrics and porcelain illustrates the extent to which passionflowers became a common motif in nineteenth-century decorative arts. Passionflowers joined the many exotic flowers sprawling over Victorian pattern-crazed homes, adding to the gaudy and saturated aesthetic of the age. 	
+Besides these public, impressive locations, passionflowers were also present in the domestic sphere through textile and porcelain designs. Richard Ovey, the leading furniture fabric purveyor in the early nineteenth century, sold a cotton titled “The Scarlet Ground White Passion Flower Chintz.”[^36]  Manchester calico manufacturer.[^37] Samuel Matley and Sons also sold an upholstery cotton decorated with passionflowers.[^38] As for porcelain, Coalport Porcelain (https://en.wikipedia.org/wiki/Coalport_porcelain), a leading brand of porcelain throughout the nineteenth century, produced a passionflower plate design painted by Thomas Pardoe (https://en.wikipedia.org/wiki/Thomas_Pardoe_(painter)), a notable painter of birds and flowers on porcelain. The presence of passionflowers in these widely available fabrics and porcelain illustrates the extent to which passionflowers became a common motif in nineteenth-century decorative arts. Passionflowers joined the many exotic flowers sprawling over Victorian pattern-crazed homes, adding to the gaudy and saturated aesthetic of the age. 	
 </p>
+<param ve-image
 image carousel with two images:
 image for repository: https://collections.vam.ac.uk/item/O113964/furnishing-fabric-ovey-richard/
-caption:"Richard Ovey (merchant), Bannister Hall (printer), image credit: Victoria and Albert Museum"
+	caption="Richard Ovey (merchant), Bannister Hall (printer), image credit: Victoria and Albert Museum"
 image for repository: https://collections.vam.ac.uk/item/O289747/furnishing-fabric-samuel-matley/
-caption:"Samuel Matley and Sons, image credit: Victoria and Albert Museum
+	caption="Samuel Matley and Sons, image credit: Victoria and Albert Museum
 Coalport Porcelain Factory (manufacturer), Thomas Pardoe (painter), image credit: Victoria and Albert Museum"
 
 ### The Passionflower in Victorian Poetry
