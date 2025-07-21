@@ -89,8 +89,9 @@ Still, both religious and scientific works nourished the flower’s myth into th
 	The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.[^27] The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.[^28] Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
 </p>
 	
-<param ve-image src="theodet/do/main/passionflower2025/ladymarywortleymontagu.jpg" 
-		   caption="Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715.">
+<param ve-image 
+	src="theodet/do/main/passionflower2025/ladymarywortleymontagu.jpg" 
+	caption="Lady Mary Wortley Montagu (1689–1762), after Godfrey Kneller, 1715.">
 
 <p>
 	In Anne Pratt and Thomas Miller’s mid-nineteenth-century floriography, The Language of Flowers: The Associations of Flowers, Popular Tales of Flowers, the passionflower is described exotically as “hanging in beautiful festoons about the venerable trees of the American forests.”[^29] It is noted only for its Christian symbolism, and no alternate symbol is offered. However, the entry seems to be more of a “popular tale” than an accepted element of the Victorian “secret language.” Pratt and Miller write snidely about the Spanish Jesuit’s floral reach of the imagination: “To their enthusiastic imaginations, the different parts of the blossoms figured the number of the Apostles, the rays of glory, the nails, the hammer— those sad signs of the Saviour’s passion ! and the sight of this wonderful symbol in the far-off wilderness, was to them an assurance of conquests which were to be effected under the name of religion.” To Pratt and Miller, the passionflower’s symbolism is far-fetched and requires, as they put it, an “enthusiastic imagination.” They use this story to critique the colonial Jesuit enterprise, saying: “More anxious to promote their own peculiar doctrines of faith, and to ensure a temporal dominion, than to exemplify the spirit of Him whom they profess to follow, the very men who beheld in a flower of the forest an emblem of love—an emblem for faith to rest upon—carried misery wherever they raised their standard.”[^30] This quote, however, is less a critique of colonialism than of the Jesuits themselves, suggesting that the Jesuits are not properly acting in the name of God. This difference of religion is ultimately what weakened the Christian symbolism of the passionflower as it was popularized in England. 
@@ -116,10 +117,10 @@ note: second image in carousel is a screenclip on my computer zoomed into the pa
 
 <param ve-image
 <param.ve-carousel gallery navigation caption="Carousel with gallery" aspect-ratio=3/2 fit=contain orientation=horizontal slides-per-page=1 slides-per-move=1
-       wc:"Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons"
+       wc="Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" caption="Hintze Hall" description="Image source: Wikimedia Commons">
        
-       wc:"Hintze_Hall_ceiling_and_arches_from_east_alcove.jpg" caption:"Hintze Hall panels" description:"Image source: Wikimedia Commons"
-       gh:"passionflower2025/passionflower-panel.png" caption:"Ceiling panel showing passionflower" description:"Image Source: cropped from Wikimedia Commons" 
+       wc="Hintze_Hall_ceiling_and_arches_from_east_alcove.jpg" caption="Hintze Hall panels" description="Image source: Wikimedia Commons"
+       gh="passionflower2025/passionflower-panel.png" caption="Ceiling panel showing passionflower" description="Image Source: cropped from Wikimedia Commons" 
        fit="contain">
 
 <p>
