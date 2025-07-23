@@ -81,7 +81,10 @@ Still, both religious and scientific works nourished the flower’s myth into th
 	</p>
 
 ### The Language of the Passionflower
-
+<param ve-image 
+	g="passionflower2025/mary-lawrence.png"
+	caption="From Mary Lawrence's (1781-1845) "Passion Flowers." Image credit: Author image courtesy of Oak Spring Garden Foundation."> 
+ 
 <p>
 	The symbolic resonance of the passionflower on the European continent did not translate fully to the Anglican Protestant world and the cultural milieu of Victorian England. The linguistic use of the word passion can be traced through the parallel trajectory of the passionflower’s symbolic meaning in England. As a reference to the sufferings of Christ from Old English, passion as a qualifier of emotionality originated in the thirteenth and fourteenth centuries. Still, the popularity of its use as a general term rose significantly in the eighteenth century.[^26] Today, English-language speakers tend to think primarily of the emotional meaning of passion. This shift occurred during the Victorian era, evidenced in the uptick of passionflowers in decorative arts, poetry, and colloquialisms. 	
 </p>
